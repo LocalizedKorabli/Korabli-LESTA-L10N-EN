@@ -5730,10 +5730,9 @@ msgid "IDS_ARC_EVENT_CONFIRM_SIDE_CALL_TO_ACTION"
 msgstr "Shall we set forth?"
 
 msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgstr ""
-"<pl><p>Gain\n"
-"<span class=\"bold\">%(_score)s POINT</span></p></pl><pl><p>Gain\n"
-"<span class=\"bold\">%(_score)s POINTS</span></p></pl>"
+msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
+msgstr[0] "<p>Gain<br><span class=\"bold\">%(_score)s POINT</span></p>"
+msgstr[1] "<p>Gain<br><span class=\"bold\">%(_score)s POINTS</span></p>"
 
 msgid "IDS_ARC_EVENT_END_DAY_RESTRICTION"
 msgstr ""
