@@ -2401,7 +2401,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "Complete the 'Echoes of the Future' collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_COMPLETED"
-msgstr "Complete the \"Embracing Progress!\" collection."
+msgstr "Complete the \"In the Name of Progress!\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SOMME126_COMPLETED"
 msgstr "Complete the Battle of the Somme collection."
@@ -3392,7 +3392,7 @@ msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "Echoes of the Future"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_COMPLETED"
-msgstr "Embracing Progress!"
+msgstr "In the Name of Progress!"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SOMME126_COMPLETED"
 msgstr "Battle of the Somme"
@@ -5728,11 +5728,6 @@ msgstr "Starts in: %(_timeStart)s"
 
 msgid "IDS_ARC_EVENT_CONFIRM_SIDE_CALL_TO_ACTION"
 msgstr "Shall we set forth?"
-
-msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgstr[0] "<p>Gain<br><span class=\"bold\">%(_score)s POINT</span></p>"
-msgstr[1] "<p>Gain<br><span class=\"bold\">%(_score)s POINTS</span></p>"
 
 msgid "IDS_ARC_EVENT_END_DAY_RESTRICTION"
 msgstr ""
@@ -21005,7 +21000,7 @@ msgid "IDS_CURRENCY_CLIENTUM_2_SPEND_DESCRIPTION"
 msgstr "On random packs with an elite container 'Premium Ship Tier VII', research points, steel, and other items, on the elite container 'Premium Ship Tier VIII', on the Tier VI cruiser Dupleix, on economic packs for Tier X ships and super ships, and on the thematic permanent camouflage 'Giant of Science' for the Tier X battleship Preussen during the event in updates 12.8 and 12.9."
 
 msgid "IDS_CURRENCY_CLIENTUM_2_STATUS"
-msgstr "Temporary event resource 'For the sake of progress!'"
+msgstr "Temporary event resource 'In the Name of Progress!'"
 
 msgid "IDS_CURRENCY_COAL"
 msgstr "Coal"
@@ -27769,7 +27764,7 @@ msgid "IDS_DOGTAG_PCNB412_DESCRIPTION"
 msgstr "In honor of the game's eighth birthday."
 
 msgid "IDS_DOGTAG_PCNB412_NAME"
-msgstr "Embracing Progress!"
+msgstr "In the Name of Progress!"
 
 msgid "IDS_DOGTAG_PCNB413_DESCRIPTION"
 msgstr "Eduard Ovechkin's collection of stories is dedicated to studying at a naval school and serving on the submarine TK-20 (Typhoon-class). The stories describe the everyday life of submariners both underwater and on land."
@@ -69920,7 +69915,7 @@ msgid "IDS_PCEE627_COLOMBIAN_NAVY_200_FLAG_DESCRIPTION"
 msgstr "The yellow, blue, and red tricolor was designed in the late 18th century by Francisco de Miranda, the first leader of the struggle for independence of the Spanish colonies in America. In the center of it sits a coat of arms depicting two horns of abundance, symbols of wealth and prosperity, as well as a bow with arrows and an axe with fascias signifying strength and unity."
 
 msgid "IDS_PCEE628_BD8_SCARLET_FUTURE_FLAG"
-msgstr "Embracing Progress!"
+msgstr "In the Name of Progress!"
 
 msgid "IDS_PCEE628_BD8_SCARLET_FUTURE_FLAG_DESCRIPTION"
 msgstr "In honor of the game's eighth birthday."
@@ -123943,7 +123938,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
 msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_TITLE"
-msgstr "Container \"New Year's Gift 2022\""
+msgstr "New Year's Gift 2022"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_TITLE_QUOTES"
 msgstr "\"New Year's Gift 2022\""
@@ -123973,7 +123968,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT
 msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_TITLE"
-msgstr "Container \"Big New Year's Gift 2022\""
+msgstr "Big New Year's Gift 2022"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_TITLE_QUOTES"
 msgstr "\"Big New Year's Gift 2022\""
@@ -124003,7 +123998,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
 msgstr "Tier V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_TITLE"
-msgstr "Container \"Giant New Year's Gift 2022\""
+msgstr "Giant New Year's Gift 2022"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_TITLE_QUOTES"
 msgstr "\"Giant New Year's Gift 2022\""
@@ -124375,7 +124370,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL026_TWITCH2_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL026_TWITCH2_TITLE"
-msgstr "Container \"Live TV\""
+msgstr "Live TV"
 
 msgid "IDS_REWARD_LOOTBOX_PCL026_TWITCH2_TITLE_QUOTES"
 msgstr "\"Live TV\""
@@ -125206,7 +125201,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE"
-msgstr "Container \"Glorious Traditions of the Fleet\""
+msgstr "Glorious Traditions of the Fleet"
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE_QUOTES"
 msgstr "\"Glorious Traditions of the Fleet\""
@@ -125242,7 +125237,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE"
-msgstr "Container \"Sea Celebration\""
+msgstr "Sea Celebration"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE_QUOTES"
 msgstr "\"Sea Celebration\""
@@ -125374,7 +125369,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier V"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
-msgstr "Container 'Premium Ship V. Collector's Reserves'"
+msgstr "Premium Ship V. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE_QUOTES"
 msgstr "\"Premium Ship V. Collector's Reserves\""
@@ -125404,7 +125399,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier VI"
 
 msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE"
-msgstr "Container 'Premium Ship VI. Collector's Reserves'"
+msgstr "Premium Ship VI. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE_QUOTES"
 msgstr "\"Premium Ship VI. Collector's Reserves\""
@@ -125434,7 +125429,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE"
-msgstr "Container 'Premium Ship VII. Collector's Reserves'"
+msgstr "Premium Ship VII. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE_QUOTES"
 msgstr "\"Premium Ship VII. Collector's Reserves\""
@@ -125464,7 +125459,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE"
-msgstr "Container 'Premium Ship VIII. Collector's Reserves'"
+msgstr "Premium Ship VIII. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE_QUOTES"
 msgstr "\"Premium Ship VIII. Collector's Reserves\""
@@ -125494,7 +125489,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
-msgstr "Container 'Premium Ship IX. Collector's Reserves'"
+msgstr "Premium Ship IX. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE_QUOTES"
 msgstr "\"Premium Ship IX. Collector's Reserves\""
@@ -125824,7 +125819,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_TITLE"
-msgstr "Container 'Italian Armada'"
+msgstr "Italian Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_TITLE_QUOTES"
 msgstr "\"Italian Armada\""
@@ -125860,7 +125855,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_TITLE"
-msgstr "Premium Container 'Italian Armada'"
+msgstr "Italian Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_TITLE_QUOTES"
 msgstr "\"Italian Armada\""
@@ -126118,7 +126113,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_TITLE"
-msgstr "Premium Container 'German Aircraft Carriers'"
+msgstr "German Aircraft Carriers"
 
 msgid "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_TITLE_QUOTES"
 msgstr "\"German Aircraft Carriers\""
@@ -126130,7 +126125,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL103_GARC096_FREE_OLD_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL103_GARC096_FREE_OLD_TITLE"
-msgstr "Container 'German Aircraft Carriers'"
+msgstr "German Aircraft Carriers"
 
 msgid "IDS_REWARD_LOOTBOX_PCL103_GARC096_FREE_OLD_TITLE_QUOTES"
 msgstr "\"German Aircraft Carriers\""
@@ -126598,7 +126593,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL124_KONGVSGODZILLA_PREM_SLOT_0_VALUABLE_GROUP_2_TIT
 msgstr "Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL124_KONGVSGODZILLA_PREM_TITLE"
-msgstr "Two Titans—One King"
+msgstr "Two Titans, One King!"
 
 msgid "IDS_REWARD_LOOTBOX_PCL124_KONGVSGODZILLA_PREM_TITLE_QUOTES"
 msgstr "\"Two Titans—One King\""
@@ -126736,7 +126731,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT
 msgstr "II–IV"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE"
-msgstr "Container 'Premium Ship II–IV. Collector's Reserves'"
+msgstr "Premium Ship II–IV. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE_QUOTES"
 msgstr "\"Premium Ship II–IV. Collector's Reserves\""
@@ -127102,7 +127097,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL146_MAY_DAY_COLLECTION_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL146_MAY_DAY_COLLECTION_TITLE"
-msgstr "Container 'Fleet of Victory'"
+msgstr "Fleet of Victory"
 
 msgid "IDS_REWARD_LOOTBOX_PCL146_MAY_DAY_COLLECTION_TITLE_QUOTES"
 msgstr "\"Fleet of Victory\""
@@ -127582,7 +127577,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHOR
 msgstr "Tier VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_TITLE"
-msgstr "Container 'American Armada'"
+msgstr "American Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_TITLE_QUOTES"
 msgstr "\"American Armada\""
@@ -127606,7 +127601,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL171_US_SHIP_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHOR
 msgstr "Tier VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL171_US_SHIP_PREM_TITLE"
-msgstr "Premium Container 'American Armada'"
+msgstr "American Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL171_US_SHIP_PREM_TITLE_QUOTES"
 msgstr "\"American Armada\""
@@ -127684,10 +127679,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE"
-msgstr "Container 'For Progress!'"
+msgstr "In the Name of Progress!"
 
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE_QUOTES"
-msgstr "\"For Progress!\""
+msgstr "\"In the Name of Progress!\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127696,7 +127691,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE"
-msgstr "Container 'Chest'"
+msgstr "Chest"
 
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE_QUOTES"
 msgstr "\"Chest\""
@@ -127708,7 +127703,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE"
-msgstr "Container 'Bunny'"
+msgstr "Bunny"
 
 msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE_QUOTES"
 msgstr "\"Bunny\""
@@ -127720,7 +127715,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE"
-msgstr "Container 'Duck'"
+msgstr "Duck"
 
 msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE_QUOTES"
 msgstr "\"Duck\""
@@ -127732,7 +127727,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE"
-msgstr "Container 'Egg'"
+msgstr "Egg"
 
 msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE_QUOTES"
 msgstr "\"Egg\""
@@ -127756,7 +127751,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE"
-msgstr "Container 'Needle'"
+msgstr "Needle"
 
 msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE_QUOTES"
 msgstr "\"Needle\""
@@ -127774,7 +127769,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE"
-msgstr "Container 'Special Ship X. Collector's Reserves'"
+msgstr "Special Ship X. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE_QUOTES"
 msgstr "\"Special Ship X. Collector's Reserves\""
@@ -127792,7 +127787,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE"
-msgstr "Premium Container Picardie"
+msgstr "Picardie"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE_QUOTES"
 msgstr "Picardie"
@@ -127816,7 +127811,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_TITLE"
-msgstr "Container 'Forging Metal'"
+msgstr "Forging Metal"
 
 msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_TITLE_QUOTES"
 msgstr "\"Forging Metal\""
@@ -127882,7 +127877,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE"
-msgstr "Premium Container Karl XIV Johan"
+msgstr "Karl XIV Johan"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_QUOTES"
 msgstr "Karl XIV Johan"
@@ -127936,7 +127931,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
 msgstr "V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE"
-msgstr "Premium Container 'New Year Gift'"
+msgstr "New Year's Gift"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE_QUOTES"
 msgstr "\"New Year's Gift\""
@@ -127966,7 +127961,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_SH
 msgstr "V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE"
-msgstr "Premium Container 'Giant New Year Gift'"
+msgstr "Giant New Year's Gift"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE_QUOTES"
 msgstr "\"Giant New Year Gift\""
@@ -127984,7 +127979,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_TITLE"
-msgstr "Container 'Special Ship X'"
+msgstr "Special Ship X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_TITLE_QUOTES"
 msgstr "\"Special Ship X\""
@@ -128020,7 +128015,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE"
-msgstr "Premium Container 'Pan-American Armada'"
+msgstr "Pan-American Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE_QUOTES"
 msgstr "\"Pan-American Armada\""
@@ -128068,10 +128063,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT
 msgstr "Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE"
-msgstr "Premium Container 'Etc'."
+msgstr "Etzik"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE_QUOTES"
-msgstr "\"Prison\""
+msgstr "\"Etzik\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128086,7 +128081,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_
 msgstr "VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE"
-msgstr "Premium Container 'May 9th'"
+msgstr "May 9th"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE_QUOTES"
 msgstr "\"May 9th\""
@@ -128116,7 +128111,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_TITLE"
-msgstr "Premium Container 'Russian Matryoshka'"
+msgstr "Russian Matryoshka"
 
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_TITLE_QUOTES"
 msgstr "\"Russian Matryoshka\""
@@ -128134,7 +128129,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHOR
 msgstr "Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_TITLE"
-msgstr "Premium Container 'Soviet Matryoshka'"
+msgstr "Soviet Matryoshka"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_TITLE_QUOTES"
 msgstr "\"Soviet Matryoshka\""
@@ -128152,7 +128147,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHOR
 msgstr "IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_TITLE"
-msgstr "Premium Container 'Imperial Matryoshka'"
+msgstr "Imperial Matryoshka"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_TITLE_QUOTES"
 msgstr "\"Imperial Matryoshka\""
@@ -128200,7 +128195,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE"
-msgstr "Premium Container 'Fleet Treasury'"
+msgstr "Fleet Treasury"
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE_QUOTES"
 msgstr "\"Fleet Treasury\""
@@ -128230,7 +128225,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_TITLE"
-msgstr "Premium Container 'Everlasting Summer'"
+msgstr "Everlasting Summer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_TITLE_QUOTES"
 msgstr "\"Everlasting Summer\""
@@ -128284,7 +128279,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE"
-msgstr "Container 'Daily'"
+msgstr "Daily"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE_QUOTES"
 msgstr "\"Daily\""
@@ -128320,7 +128315,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE"
-msgstr "Premium Container 'Japanese Squadron'"
+msgstr "Japanese Squadron"
 
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE_QUOTES"
 msgstr "\"Japanese Squadron\""
@@ -128374,7 +128369,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_TITLE"
-msgstr "Container 'Path of the Victors'"
+msgstr "Path of the Victors"
 
 msgid "IDS_REWARD_LOOTBOX_PCL211_TSAR_MOREY_COLL_TITLE_QUOTES"
 msgstr "\"Path of the Victors\""
@@ -128494,7 +128489,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Tier VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE"
-msgstr "Premium Container 'Dynastic Heritage'"
+msgstr "Dynastic Heritage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE_QUOTES"
 msgstr "\"Dynastic Heritage\""
@@ -128542,7 +128537,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Allied ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_TITLE"
-msgstr "Premium Container \"Glory to the Victors!\""
+msgstr "Glory to the Victors!"
 
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_TITLE_QUOTES"
 msgstr "\"Glory to the Victors!\""
@@ -128566,7 +128561,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_TITLE"
-msgstr "Container \"Standard Signals\""
+msgstr "Standard Signals"
 
 msgid "IDS_REWARD_LOOTBOX_PCL220_SIGNALS_T1_TITLE_QUOTES"
 msgstr "\"Standard Signals\""
@@ -128590,7 +128585,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_TITLE"
-msgstr "Container \"Special Signals\""
+msgstr "Special Signals"
 
 msgid "IDS_REWARD_LOOTBOX_PCL221_SIGNALS_T2_TITLE_QUOTES"
 msgstr "\"Special Signals\""
@@ -128614,7 +128609,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE"
-msgstr "Container \"Rare Signals\""
+msgstr "Rare Signals"
 
 msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE_QUOTES"
 msgstr "\"Rare Signals\""
@@ -128638,7 +128633,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE"
-msgstr "Container \"Elite Signals\""
+msgstr "Elite Signals"
 
 msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE_QUOTES"
 msgstr "\"Elite Signals\""
@@ -128722,7 +128717,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_TITLE"
-msgstr "Premium Container \"Premium Ship\""
+msgstr "Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_TITLE_QUOTES"
 msgstr "\"Premium Ship\""
@@ -128896,7 +128891,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_TITLE"
-msgstr "Premium Container 'Silver New Year Casket'"
+msgstr "Silver New Year Casket"
 
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_TITLE_QUOTES"
 msgstr "\"Silver New Year Casket\""
@@ -128932,7 +128927,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_TITLE"
-msgstr "Premium Container 'Golden New Year Casket'"
+msgstr "Golden New Year Casket"
 
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_TITLE_QUOTES"
 msgstr "\"Golden New Year Casket\""
@@ -128962,7 +128957,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_TITLE"
-msgstr "Premium Container 'Cyber Chest'"
+msgstr "Cyber Chest"
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_TITLE_QUOTES"
 msgstr "\"Cyber Chest\""
@@ -148224,6 +148219,11 @@ msgid "IDS_AOGAS_RESET_PENALTY"
 msgid_plural "IDS_AOGAS_RESET_PENALTY"
 msgstr[0] "It has been more than %(hours)s hour since the last time you logged in to the game. You can now earn the full amount of Silver and XP again."
 msgstr[1] "It has been more than %(hours)s hours since the last time you logged in to the game. You can now earn the full amount of Silver and XP again."
+
+msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
+msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
+msgstr[0] "<p>Gain<br><span class=\"bold\">%(_score)s POINT</span></p>"
+msgstr[1] "<p>Gain<br><span class=\"bold\">%(_score)s POINTS</span></p>"
 
 msgid "IDS_ARC_EVENT_POINTS_COST"
 msgid_plural "IDS_ARC_EVENT_POINTS_COST"
