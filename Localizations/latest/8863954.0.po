@@ -1047,6 +1047,15 @@ msgstr "Snatched Glory"
 msgid "IDS_ACHIEVEMENT_3WAYSTOKILL_PA"
 msgstr "Wrecker"
 
+msgid "IDS_ACHIEVEMENT_AIRCARRIER_KILL_1"
+msgstr "Aircraft Carrier Hunter"
+
+msgid "IDS_ACHIEVEMENT_AIRCARRIER_KILL_2"
+msgstr "Aircraft Carrier Liquidator"
+
+msgid "IDS_ACHIEVEMENT_AIRCARRIER_KILL_3"
+msgstr "Aircraft Carrier Smasher"
+
 msgid "IDS_ACHIEVEMENT_AIRDEFENSEEXPERT"
 msgstr "AA Defense Expert"
 
@@ -1103,6 +1112,24 @@ msgstr "Eagles"
 
 msgid "IDS_ACHIEVEMENT_AVASHARKS"
 msgstr "Sharks"
+
+msgid "IDS_ACHIEVEMENT_BASECAPTURE_AMOUNT_1"
+msgstr "Invader"
+
+msgid "IDS_ACHIEVEMENT_BASECAPTURE_AMOUNT_2"
+msgstr "Conqueror of the Seas"
+
+msgid "IDS_ACHIEVEMENT_BASECAPTURE_AMOUNT_3"
+msgstr "Great Conqueror"
+
+msgid "IDS_ACHIEVEMENT_BATTLESHIP_KILL_1"
+msgstr "Battleship Hunter"
+
+msgid "IDS_ACHIEVEMENT_BATTLESHIP_KILL_2"
+msgstr "Battleship Liquidator"
+
+msgid "IDS_ACHIEVEMENT_BATTLESHIP_KILL_3"
+msgstr "Battleship Smasher"
 
 msgid "IDS_ACHIEVEMENT_BATTLE_HERO"
 msgstr "Battle Hero"
@@ -1211,6 +1238,15 @@ msgstr "Brothers-in-Arms"
 
 msgid "IDS_ACHIEVEMENT_BW_PARTICIPANT"
 msgstr "BW Participant"
+
+msgid "IDS_ACHIEVEMENT_CAMOS_AMOUNT_1"
+msgstr "Under Cover"
+
+msgid "IDS_ACHIEVEMENT_CAMOS_AMOUNT_2"
+msgstr "Camouflage Genius"
+
+msgid "IDS_ACHIEVEMENT_CAMOS_AMOUNT_3"
+msgstr "Master of Reincarnation"
 
 msgid "IDS_ACHIEVEMENT_CAMPAIGN1_COMPLETED"
 msgstr "Science of Victory"
@@ -1406,6 +1442,15 @@ msgstr "Honorable Collector"
 
 msgid "IDS_ACHIEVEMENT_COLLECTOR_PA"
 msgstr "Plunderer"
+
+msgid "IDS_ACHIEVEMENT_COLLECT_COMMANDERS_1"
+msgstr "Naval Guards"
+
+msgid "IDS_ACHIEVEMENT_COLLECT_COMMANDERS_2"
+msgstr "Command Headquarters"
+
+msgid "IDS_ACHIEVEMENT_COLLECT_COMMANDERS_3"
+msgstr "Council of Admirals"
 
 msgid "IDS_ACHIEVEMENT_COMBAT_PACE"
 msgstr "Impeccable Service"
@@ -1671,6 +1716,15 @@ msgstr "Bastion of Civilization"
 msgid "IDS_ACHIEVEMENT_CRUISER_BOOK"
 msgstr "Naval Legends: Cruisers"
 
+msgid "IDS_ACHIEVEMENT_CRUISER_KILL_1"
+msgstr "Cruiser Hunter"
+
+msgid "IDS_ACHIEVEMENT_CRUISER_KILL_2"
+msgstr "Cruiser Liquidator"
+
+msgid "IDS_ACHIEVEMENT_CRUISER_KILL_3"
+msgstr "Cruiser Smasher"
+
 msgid "IDS_ACHIEVEMENT_CVC_BRAWL_TOP1"
 msgstr "Top 1"
 
@@ -1685,6 +1739,15 @@ msgstr "Top 1000"
 
 msgid "IDS_ACHIEVEMENT_DATE_COLON"
 msgstr "Acquired on:"
+
+msgid "IDS_ACHIEVEMENT_DEATHMATCH_FOUR_KILL_STREAK"
+msgstr "Sea Devil"
+
+msgid "IDS_ACHIEVEMENT_DEATHMATCH_VICTORY"
+msgstr "Sea Hunter"
+
+msgid "IDS_ACHIEVEMENT_DEATHMATCH_VICTORY_5_DEATHS"
+msgstr "Sea Robber"
 
 msgid "IDS_ACHIEVEMENT_DECISIVE_CONTRIBUTION"
 msgstr "Crucial Contribution"
@@ -1706,6 +1769,15 @@ msgstr "Rob the enemy team of victory by destroying all of their ships when the 
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_3WAYSTOKILL_PA"
 msgstr "Destroy three enemy ships in three different ways in a single battle."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRCARRIER_KILL_1"
+msgstr "Destroy %(killedVehiclesCount)s aircraft carriers."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRCARRIER_KILL_2"
+msgstr "Destroy %(killedVehiclesCount)s aircraft carriers."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRCARRIER_KILL_3"
+msgstr "Destroy %(killedVehiclesCount)s aircraft carriers."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRDEFENSEEXPERT"
 msgstr "Destroy %(goalValue)s or more enemy aircraft in a single battle, including aircraft launched using equipment."
@@ -1764,8 +1836,26 @@ msgstr "Remain loyal to the Eagles team in the Go Navy! event."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVASHARKS"
 msgstr "Remain loyal to the Sharks team in the Go Navy! event."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_BASECAPTURE_AMOUNT_1"
+msgstr "Capture or assist in capture %(ribbonsCount)s enemy Key Areas or bases."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_BASECAPTURE_AMOUNT_2"
+msgstr "Capture or assist in capture %(ribbonsCount)s enemy Key Areas or bases."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_BASECAPTURE_AMOUNT_3"
+msgstr "Capture or assist in capture %(ribbonsCount)s enemy Key Areas or bases."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLESHIP_KILL_1"
+msgstr "Destroy %(killedVehiclesCount)s battleships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLESHIP_KILL_2"
+msgstr "Destroy %(killedVehiclesCount)s battleships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLESHIP_KILL_3"
+msgstr "Destroy %(killedVehiclesCount)s battleships."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLE_HERO"
-msgstr "Receive any %(achievementCount)s heroic achievements."
+msgstr "Receive %(achievementCount)s heroic achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLE_TOURNAMENT"
 msgstr "Participate in a tournament with your team."
@@ -1935,6 +2025,15 @@ msgstr "Playing in a Division, damage at least six enemy ships. Damage caused by
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BW_PARTICIPANT"
 msgstr "The developers thank you for participating in the Beta Weekend."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMOS_AMOUNT_1"
+msgstr "Collect %(camouflagesCount)s camouflages."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMOS_AMOUNT_2"
+msgstr "Collect %(camouflagesCount)s camouflages."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMOS_AMOUNT_3"
+msgstr "Collect %(camouflagesCount)s camouflages."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN1_COMPLETED"
 msgstr "Complete the final task of the Science of Victory campaign."
@@ -2131,6 +2230,15 @@ msgstr "Thank you for being such a great naval enthusiast."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTOR_PA"
 msgstr "Seize five consumables dropped by aircraft in a single battle."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECT_COMMANDERS_1"
+msgstr "Collect %(commandersCount)s level 21 commanders."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECT_COMMANDERS_2"
+msgstr "Collect %(commandersCount)s level 21 commanders."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECT_COMMANDERS_3"
+msgstr "Collect %(commandersCount)s level 21 commanders."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COMBAT_PACE"
 msgstr "Win %(streak)s battles in a row."
 
@@ -2163,6 +2271,15 @@ msgstr "Protect Earth from alien invasion."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_BOOK"
 msgstr "Obtain the book \"Naval Legends: Cruisers\"."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_KILL_1"
+msgstr "Destroy %(killedVehiclesCount)s cruisers."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_KILL_2"
+msgstr "Destroy %(killedVehiclesCount)s cruisers."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_KILL_3"
+msgstr "Destroy %(killedVehiclesCount)s cruisers."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CVC_BRAWL_TOP1"
 msgstr "Take first place."
 
@@ -2175,8 +2292,26 @@ msgstr "Rank among the top 100 Clans."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CVC_BRAWL_TOP1000"
 msgstr "Rank among the top 1,000 Clans."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DEATHMATCH_FOUR_KILL_STREAK"
+msgstr "Destroy 4 enemy ships without being destroyed once during this time."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DEATHMATCH_VICTORY"
+msgstr "Take 1st place."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DEATHMATCH_VICTORY_5_DEATHS"
+msgstr "Take 1st place while not being destroyed more than 5 times."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DECISIVE_CONTRIBUTION"
 msgstr "Playing in a Division, receive at least %(dominationPoints)s points in the Domination battle mode and win the battle. All Division members must survive the battle."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DESTROYER_KILL_1"
+msgstr "Destroy %(killedVehiclesCount)s destroyers."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DESTROYER_KILL_2"
+msgstr "Destroy %(killedVehiclesCount)s destroyers."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DESTROYER_KILL_3"
+msgstr "Destroy %(killedVehiclesCount)s destroyers."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DETONATED"
 msgstr "Receive critical damage to the magazine, resulting in detonation."
@@ -2189,6 +2324,24 @@ msgstr "Win a battle while fighting on a ship of the Russian Empire."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DMMGAMES"
 msgstr "Exclusive achievement dedicated to the release of the game on the DMM Games platform."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOGTAG_AMOUNT_1"
+msgstr "Collect %(dogTagsCount)s insignia."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOGTAG_AMOUNT_2"
+msgstr "Collect %(dogTagsCount)s insignia."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOGTAG_AMOUNT_3"
+msgstr "Collect %(dogTagsCount)s insignia."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"Double Strike\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"Double Strike\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"Double Strike\" achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_PA"
 msgstr "Destroy two enemy ships within 10 seconds of each other."
@@ -2451,6 +2604,15 @@ msgstr "Clash with rubber duckies in a hot tub and come out of the fight unscath
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FIRST_BLOOD"
 msgstr "Be the first to destroy an enemy ship in battle."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FLAGS_AMOUNT_1"
+msgstr "Collect %(ensignsCount)s flags."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FLAGS_AMOUNT_2"
+msgstr "Collect %(ensignsCount)s flags."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FLAGS_AMOUNT_3"
+msgstr "Collect %(ensignsCount)s flags."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FOOLSDAY_ONE_STEP"
 msgstr "Win one battle with each ship type."
 
@@ -2502,6 +2664,15 @@ msgstr "Destroy an enemy ship while inside the Wild Fire."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HONOR"
 msgstr "For loyalty to the 'Honor' team in the 'Victory' event."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_HONOR_ACHIEVEMENT_1"
+msgstr "Get %(achievementsCount)s honorary achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_HONOR_ACHIEVEMENT_2"
+msgstr "Get %(achievementsCount)s honorary achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_HONOR_ACHIEVEMENT_3"
+msgstr "Get %(achievementsCount)s honorary achievements."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_INDEPENDENCE_DAY"
 msgstr "Join the celebrations of American Independence Day."
 
@@ -2510,6 +2681,15 @@ msgstr "Within 5 seconds, deal damage to an enemy ship amounting to at least %(_
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_INVINCIBLE"
 msgstr "Win %(streak)s battles in a row."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_INVINCIBLE_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"Invincible Warrior\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_INVINCIBLE_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"Invincible Warrior\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_INVINCIBLE_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"Invincible Warrior\" achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_IT_DD_COLL_COMPLETED"
 msgstr "Complete the Italian Destroyers collection."
@@ -2552,6 +2732,15 @@ msgstr "Destroy an enemy ship. Flooding damage must account for at least %(damag
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LONGTIME_PA"
 msgstr "Survive in battle for over 10 minutes."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAINCALIBER_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"High Caliber\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAINCALIBER_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"High Caliber\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAINCALIBER_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"High Caliber\" achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER"
 msgstr "Damage %(victimsCount)s or more enemy ships. Damage caused must amount to at least %(damageRatio_percent)s of the total base HP of all ships on the enemy team."
@@ -2610,6 +2799,15 @@ msgstr "Earn %(moneyCount)s Silver in battles."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NEWYEAR_LEADERBOARD"
 msgstr "For entering the Hall of Fame during the \"In the Name of His Highness!\" event"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_NOMISFIRES_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"Fierce Onslaught\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_NOMISFIRES_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"Fierce Onslaught\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_NOMISFIRES_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"Fierce Onslaught\" achievements."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_DAY_WITHOUT_ADVENTURE"
 msgstr "Complete at least one daily mission a day for five days in a row."
 
@@ -2620,7 +2818,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_MISFIRES"
 msgstr "Damage %(victimsCount)s or more ships in %(streak)s consecutive battles. The damage dealt must be at least %(damageRatio_percent)s of your ship's base HP."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_PRICE_FOR_HEROISM"
-msgstr "Receive any %(achievementCount)s heroic achievements."
+msgstr "Receive %(achievementCount)s heroic achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NY17_500_LEAGUES"
 msgstr ""
@@ -2664,6 +2862,15 @@ msgstr ""
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_OBT_PARTICIPANT"
 msgstr "The developers thank you for participating in the Open Beta Test."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ONESOLDIER_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"Solo Warrior\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ONESOLDIER_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"Solo Warrior\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ONESOLDIER_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"Solo Warrior\" achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ONE_SOLDIER_IN_THE_FIELD"
 msgstr "Stand alone against at least %(enemiesCount)s enemy ships and win the battle."
@@ -2782,8 +2989,26 @@ msgstr "Destroy two enemy ships by ramming in a single battle."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RASPUTIN"
 msgstr "Granted for gaining a victory in Twilight Battle with battleship Rasputin."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_REACTS_AMOUNT_1"
+msgstr "Get %(emojisCount)s reactions in battles."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_REACTS_AMOUNT_2"
+msgstr "Get %(emojisCount)s reactions in battles."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_REACTS_AMOUNT_3"
+msgstr "Get %(emojisCount)s reactions in battles."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RETRIBUTION"
 msgstr "Destroy an enemy ship after your ship has been destroyed."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RETRIBUTION_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"It's Just a Flesh Wound\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RETRIBUTION_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"It's Just a Flesh Wound\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RETRIBUTION_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"It's Just a Flesh Wound\" achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSSO_JAPANESE_WAR"
 msgstr "Defeat the Japanese fleet forces in an Asymmetric Battle."
@@ -2834,7 +3059,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_TO_THE_BOTTOM"
 msgstr "For the first time, destroy an enemy ship by flooding."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SEA_LEGEND"
-msgstr "Receive any %(achievementCount)s heroic achievements."
+msgstr "Receive %(achievementCount)s heroic achievements."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHADOW"
 msgstr "Test."
@@ -2847,6 +3072,15 @@ msgstr "Display strong knowledge of ship branches in minigames on the website."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIPSMASTER_3"
 msgstr "Display good knowledge of ship branches in minigames on the website."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIP_KILL_1"
+msgstr "Destroy %(killedVehiclesCount)s enemy ships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIP_KILL_2"
+msgstr "Destroy %(killedVehiclesCount)s enemy ships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SHIP_KILL_3"
+msgstr "Destroy %(killedVehiclesCount)s enemy ships."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SILENT_KILLER"
 msgstr "Destroy an enemy ship and stay undetected."
@@ -2889,6 +3123,15 @@ msgstr "For honorary spectators who complete the combat mission."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ST_PARTICIPANT"
 msgstr "The developers thank you for participating in the Supertest."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUBMARINE_KILL_1"
+msgstr "Destroy %(killedVehiclesCount)s submarines."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUBMARINE_KILL_2"
+msgstr "Destroy %(killedVehiclesCount)s submarines."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUBMARINE_KILL_3"
+msgstr "Destroy %(killedVehiclesCount)s submarines."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT"
 msgstr "Damage %(victimsCount)s or more enemy ships. Damage dealt to each ship must amount to at least %(damageRatio_percent)s of her base HP."
@@ -3061,6 +3304,15 @@ msgstr "Complete all levels of confrontation between the Alliance and Ermelinda 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "Destroy %(victimsCount)s or more enemy ships."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_AMOUNT_1"
+msgstr "Get %(achievementCount)s \"Kraken Unleashed\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_AMOUNT_2"
+msgstr "Get %(achievementCount)s \"Kraken Unleashed\" achievements."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_AMOUNT_3"
+msgstr "Get %(achievementCount)s \"Kraken Unleashed\" achievements."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_COOP"
 msgstr "Destroy %(victimsCount)s or more enemy ships."
 
@@ -3166,6 +3418,15 @@ msgstr "Complete 100 daily missions."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WORKAHOLIC_L"
 msgstr "Open 1,000 containers."
 
+msgid "IDS_ACHIEVEMENT_DESTROYER_KILL_1"
+msgstr "Destroyer Hunter"
+
+msgid "IDS_ACHIEVEMENT_DESTROYER_KILL_2"
+msgstr "Destroyer Liquidator"
+
+msgid "IDS_ACHIEVEMENT_DESTROYER_KILL_3"
+msgstr "Destroyer Smasher"
+
 msgid "IDS_ACHIEVEMENT_DETONATED"
 msgstr "Detonation"
 
@@ -3177,6 +3438,24 @@ msgstr "Order of St. George Cross"
 
 msgid "IDS_ACHIEVEMENT_DMMGAMES"
 msgstr "\"DMM Games\" Achievement"
+
+msgid "IDS_ACHIEVEMENT_DOGTAG_AMOUNT_1"
+msgstr "The Distinguished"
+
+msgid "IDS_ACHIEVEMENT_DOGTAG_AMOUNT_2"
+msgstr "The Awarded"
+
+msgid "IDS_ACHIEVEMENT_DOGTAG_AMOUNT_3"
+msgstr "Order Bearer"
+
+msgid "IDS_ACHIEVEMENT_DOUBLEKILL_AMOUNT_1"
+msgstr "Double Destruction"
+
+msgid "IDS_ACHIEVEMENT_DOUBLEKILL_AMOUNT_2"
+msgstr "Double Massacre"
+
+msgid "IDS_ACHIEVEMENT_DOUBLEKILL_AMOUNT_3"
+msgstr "Double Perdition"
 
 msgid "IDS_ACHIEVEMENT_DOUBLEKILL_PA"
 msgstr "Double Catch"
@@ -3445,6 +3724,15 @@ msgstr "Trouble in the Hot Tub"
 msgid "IDS_ACHIEVEMENT_FIRST_BLOOD"
 msgstr "First Blood"
 
+msgid "IDS_ACHIEVEMENT_FLAGS_AMOUNT_1"
+msgstr "Standard-bearer"
+
+msgid "IDS_ACHIEVEMENT_FLAGS_AMOUNT_2"
+msgstr "Standard-Junker"
+
+msgid "IDS_ACHIEVEMENT_FLAGS_AMOUNT_3"
+msgstr "Chief of Staff"
+
 msgid "IDS_ACHIEVEMENT_FOOLSDAY_ONE_STEP"
 msgstr "That's One Small Step For Man"
 
@@ -3517,6 +3805,15 @@ msgstr "Warm Greetings"
 msgid "IDS_ACHIEVEMENT_HONOR"
 msgstr "Honor"
 
+msgid "IDS_ACHIEVEMENT_HONOR_ACHIEVEMENT_1"
+msgstr "Kapitan 1st ranga"
+
+msgid "IDS_ACHIEVEMENT_HONOR_ACHIEVEMENT_2"
+msgstr "Kontr-Admiral"
+
+msgid "IDS_ACHIEVEMENT_HONOR_ACHIEVEMENT_3"
+msgstr "Admiral Flota"
+
 msgid "IDS_ACHIEVEMENT_INDEPENDENCE_DAY"
 msgstr "U.S. Independence Day"
 
@@ -3525,6 +3822,15 @@ msgstr "Devastating Strike"
 
 msgid "IDS_ACHIEVEMENT_INVINCIBLE"
 msgstr "Invincible Warrior"
+
+msgid "IDS_ACHIEVEMENT_INVINCIBLE_AMOUNT_1"
+msgstr "Sea Wolf"
+
+msgid "IDS_ACHIEVEMENT_INVINCIBLE_AMOUNT_2"
+msgstr "Spirit of the Ocean"
+
+msgid "IDS_ACHIEVEMENT_INVINCIBLE_AMOUNT_3"
+msgstr "Lord of Waves"
 
 msgid "IDS_ACHIEVEMENT_IT_DD_COLL_COMPLETED"
 msgstr "Italian Destroyers"
@@ -3570,6 +3876,15 @@ msgstr "Liquidator"
 
 msgid "IDS_ACHIEVEMENT_LONGTIME_PA"
 msgstr "Weather Beaten"
+
+msgid "IDS_ACHIEVEMENT_MAINCALIBER_AMOUNT_1"
+msgstr "A Weighty Argument"
+
+msgid "IDS_ACHIEVEMENT_MAINCALIBER_AMOUNT_2"
+msgstr "Ironclad Argument"
+
+msgid "IDS_ACHIEVEMENT_MAINCALIBER_AMOUNT_3"
+msgstr "Position of Strength"
 
 msgid "IDS_ACHIEVEMENT_MAIN_CALIBER"
 msgstr "High Caliber"
@@ -3634,6 +3949,15 @@ msgstr "Business Magnate"
 msgid "IDS_ACHIEVEMENT_NEWYEAR_LEADERBOARD"
 msgstr "Supreme Will"
 
+msgid "IDS_ACHIEVEMENT_NOMISFIRES_AMOUNT_1"
+msgstr "Furious"
+
+msgid "IDS_ACHIEVEMENT_NOMISFIRES_AMOUNT_2"
+msgstr "Unstoppable"
+
+msgid "IDS_ACHIEVEMENT_NOMISFIRES_AMOUNT_3"
+msgstr "Ruthless"
+
 msgid "IDS_ACHIEVEMENT_NO_DAY_WITHOUT_ADVENTURE"
 msgstr "A Day Without Adventure Is a Wasted One"
 
@@ -3672,6 +3996,15 @@ msgstr "Good Start"
 
 msgid "IDS_ACHIEVEMENT_OBT_PARTICIPANT"
 msgstr "OBT Veteran"
+
+msgid "IDS_ACHIEVEMENT_ONESOLDIER_AMOUNT_1"
+msgstr "Surviving Fighter"
+
+msgid "IDS_ACHIEVEMENT_ONESOLDIER_AMOUNT_2"
+msgstr "Lone Warrior"
+
+msgid "IDS_ACHIEVEMENT_ONESOLDIER_AMOUNT_3"
+msgstr "The Last Hero"
 
 msgid "IDS_ACHIEVEMENT_ONE_SOLDIER_IN_THE_FIELD"
 msgstr "Solo Warrior"
@@ -3805,6 +4138,15 @@ msgstr "Achievement"
 msgid "IDS_ACHIEVEMENT_RASPUTIN"
 msgstr "Twilight Fleet Flagship"
 
+msgid "IDS_ACHIEVEMENT_REACTS_AMOUNT_1"
+msgstr "Rising Star"
+
+msgid "IDS_ACHIEVEMENT_REACTS_AMOUNT_2"
+msgstr "Darling of the Public"
+
+msgid "IDS_ACHIEVEMENT_REACTS_AMOUNT_3"
+msgstr "Living Legend"
+
 msgid "IDS_ACHIEVEMENT_RESET_PROGRESS_ON_TIME"
 msgstr "Progress will reset 30 days after the condition is first met."
 
@@ -3828,6 +4170,9 @@ msgstr "Completed in Co-op Battles."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_COSMOEVENT2026"
 msgstr "Available in the \"Space Front\" event."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_DEATHMATCH"
+msgstr "Can be completed during the \"Deathmatch\" event."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_2AIRSHIPS"
 msgstr "Can be completed in Airship Escort."
@@ -3889,6 +4234,18 @@ msgstr "Can be completed in Operations."
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVE_DREADNOUGHT"
 msgstr "Available in the 'Iron Horde' event."
 
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVE_PVP_RANKED_COOPERATIVE_RATING"
+msgstr "Can be completed in Random, Ranked, Rating, Co-op Battles, and Operations."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVE_RANKED_COOPERATIVE_RATING"
+msgstr "Can be completed in Random, Ranked, Rating Battles, and Operations."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_PVE"
+msgstr "Can be completed in Random Battles and Operations."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_PVE_RANKED_RATING"
+msgstr "Can be completed in Random, Ranked, Rating Battles, and Operations."
+
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_PVP_RANKED"
 msgstr "Can be completed in Random, Ranked and Rating Battles."
 
@@ -3918,6 +4275,15 @@ msgstr "Can be completed in Savage Battles."
 
 msgid "IDS_ACHIEVEMENT_RETRIBUTION"
 msgstr "It's Just a Flesh Wound!"
+
+msgid "IDS_ACHIEVEMENT_RETRIBUTION_AMOUNT_1"
+msgstr "Last Hello"
+
+msgid "IDS_ACHIEVEMENT_RETRIBUTION_AMOUNT_2"
+msgstr "Payback Time"
+
+msgid "IDS_ACHIEVEMENT_RETRIBUTION_AMOUNT_3"
+msgstr "The Elusive Avenger"
 
 msgid "IDS_ACHIEVEMENT_RUSSO_JAPANESE_WAR"
 msgstr "Asymmetric Battle: Russo-Japanese War"
@@ -3981,6 +4347,15 @@ msgstr "Medium Fleet Encyclopedia"
 
 msgid "IDS_ACHIEVEMENT_SHIPSMASTER_3"
 msgstr "Small Fleet Encyclopedia"
+
+msgid "IDS_ACHIEVEMENT_SHIP_KILL_1"
+msgstr "Squadron Destroyer"
+
+msgid "IDS_ACHIEVEMENT_SHIP_KILL_2"
+msgstr "Fleet Executioner"
+
+msgid "IDS_ACHIEVEMENT_SHIP_KILL_3"
+msgstr "Armada Smasher"
 
 msgid "IDS_ACHIEVEMENT_SILENT_KILLER"
 msgstr "Invisible Threat"
@@ -4054,8 +4429,14 @@ msgstr "Campaigns"
 msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_COLLECTIONS"
 msgstr "Collections"
 
+msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_COMBAT"
+msgstr "In Battles"
+
 msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_COMMON"
 msgstr "Common"
+
+msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_NON_COMBAT"
+msgstr "In the Port"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_OPERATIONS"
 msgstr "Operations"
@@ -4077,6 +4458,15 @@ msgstr "Halloween"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_SINGLE"
 msgstr "Individual"
+
+msgid "IDS_ACHIEVEMENT_SUBMARINE_KILL_1"
+msgstr "Submarine Hunter"
+
+msgid "IDS_ACHIEVEMENT_SUBMARINE_KILL_2"
+msgstr "Submarine Liquidator"
+
+msgid "IDS_ACHIEVEMENT_SUBMARINE_KILL_3"
+msgstr "Submarine Smasher"
 
 msgid "IDS_ACHIEVEMENT_SUPPORT"
 msgstr "Confederate"
@@ -4284,6 +4674,15 @@ msgstr "Battle for Erebus"
 
 msgid "IDS_ACHIEVEMENT_WARRIOR"
 msgstr "Kraken Unleashed!"
+
+msgid "IDS_ACHIEVEMENT_WARRIOR_AMOUNT_1"
+msgstr "Young Kraken"
+
+msgid "IDS_ACHIEVEMENT_WARRIOR_AMOUNT_2"
+msgstr "Youth Kraken"
+
+msgid "IDS_ACHIEVEMENT_WARRIOR_AMOUNT_3"
+msgstr "Mature Kraken"
 
 msgid "IDS_ACHIEVEMENT_WARRIOR_COOP"
 msgstr "Naval Ace"
@@ -4775,7 +5174,7 @@ msgid "IDS_ADVENT_NO_LOOTING_POINTS_STATUS_HOURS"
 msgstr "A new opportunity to claim yesterday's missed reward will be available in %(_timeLeft)s."
 
 msgid "IDS_ADVENT_REWARD_WINDOW_DESCRIPTION"
-msgstr "Log in to the game every day and claim your rewards!"
+msgstr "Log into \"Mir Korabley\" every day and get rewards!"
 
 msgid "IDS_ADVENT_TOOLTIP_CLAIM_PREVIOUS_REWARD_STATUS"
 msgstr "You can claim the missed reward for this day."
@@ -7705,7 +8104,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RETRAIN_GOLD"
 msgstr "Commander retraining for Gold"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
-msgstr "Fleet tokens that can be obtained"
+msgstr "Traveler tokens that can be obtained"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
 msgstr "Daily bonus for victory"
@@ -8038,7 +8437,7 @@ msgid "IDS_BATTLETYPE_TOOLTIP_PORTAL_ULTRAHARD"
 msgstr "Strike up alliances with other players, destroy enemies, earn Battle Points, and hurry to exit via the Portal with your haul!"
 
 msgid "IDS_BATTLE_BONUS"
-msgstr "Victory Bonus"
+msgstr "Battle Performance Bonus"
 
 msgid "IDS_BATTLE_BONUS_MULTIPLE"
 msgstr "Battle Bonus"
@@ -8078,6 +8477,9 @@ msgstr "Call back the squadron"
 
 msgid "IDS_BATTLE_HINT_SQUADRON_CONTROL_RETURN_TO_AIRCARRIER"
 msgstr "Operating an aircraft carrier"
+
+msgid "IDS_BATTLE_HOTKEY_SHOW_LEADERBOARD"
+msgstr "Leaderboard"
 
 msgid "IDS_BATTLE_LOADING_SUBMARINE_INFO_DESCRIPTION_1"
 msgstr "Torpedoes can be launched only when a submarine is on the surface or at periscope depth."
@@ -8499,6 +8901,9 @@ msgstr "Depth Charges"
 msgid "IDS_BATTLE_STATS_DBOMBS_RELEASED"
 msgstr "Bombs released"
 
+msgid "IDS_BATTLE_STATS_DEATHMATCH_REPORT"
+msgstr "LEADERBOARD"
+
 msgid "IDS_BATTLE_STATS_DEFENCE_POINTS"
 msgstr "Defense points"
 
@@ -8871,6 +9276,9 @@ msgstr "Number of times you suppressed this surveillance station"
 msgid "IDS_BATTLE_STATS_WITH_PREMIUM"
 msgstr "With Premium"
 
+msgid "IDS_BATTLE_STATS_YOUR_SCORE"
+msgstr "Points"
+
 msgid "IDS_BATTLE_TASKS"
 msgstr "Combat Missions"
 
@@ -8933,6 +9341,9 @@ msgstr "Survive a battle with all of your teammate ships surviving"
 
 msgid "IDS_BATTLE_TASK_TEXT_COLLECT_TOWER_PARTS"
 msgstr "Collect Shards of the Great Tower to increase Transylvania's resistance to damage"
+
+msgid "IDS_BATTLE_TASK_TEXT_DEATHMATCH_MAIN_TASK"
+msgstr "Be the first to score 15 points by destroying enemy ships"
 
 msgid "IDS_BATTLE_TASK_TEXT_EV_23_KILL_AIRPLANES_MAX"
 msgstr "Destroy the enemy air forces"
@@ -9038,6 +9449,12 @@ msgstr "Sink the two retreating cruisers"
 
 msgid "IDS_BATTLE_TASK_TEXT_I00_POINT_B_ONE"
 msgstr " "
+
+msgid "IDS_BATTLE_TASK_TEXT_IDS_DM_TASK"
+msgstr "Player %s destroyed:"
+
+msgid "IDS_BATTLE_TASK_TEXT_IDS_DM_TASK_ME"
+msgstr "You destroyed:"
 
 msgid "IDS_BATTLE_TASK_TEXT_KILL_BAD_GUYS_AND_STAY_ALIVE"
 msgstr "Sink destroyers Megaera, Alecto, and Tisiphone"
@@ -9540,7 +9957,7 @@ msgid "IDS_BONUSTAG_PARAGON_HEADER"
 msgstr "Research Points"
 
 msgid "IDS_BONUSTAG_SNOWFLAKE_HEADER"
-msgstr "Festive Reward"
+msgstr "Reward in the hold"
 
 msgid "IDS_BONUSTAG_SUBHEADER"
 msgstr "Battle Performance Bonus"
@@ -9920,6 +10337,9 @@ msgstr "Number of warships destroyed"
 msgid "IDS_BY_REWARDS"
 msgstr "Number of achievements received in the battle"
 
+msgid "IDS_CALIPSO"
+msgstr "Calypso Carter"
+
 msgid "IDS_CALL_PLAYERS_NAME"
 msgstr "Call Player by name"
 
@@ -10267,6 +10687,9 @@ msgstr "Filter ships suitable for the Seek for Pandora event"
 
 msgid "IDS_CAROUSEL_PCVE033_FILTER"
 msgstr "Filter ships suitable for the \"Aggression\" event"
+
+msgid "IDS_CAROUSEL_PCVE035_FILTER"
+msgstr "Filter ships suitable for the \"Deathmatch\" event"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "Filter ships suitable for Operations"
@@ -11809,6 +12232,12 @@ msgstr "Repair Party"
 msgid "IDS_CMD_QUICK_DROP_REPAIR_PARTY_ACTIVE_MESSAGE"
 msgstr "Repair Party consumable"
 
+msgid "IDS_CMD_QUICK_DROP_SPEED_ACTIVE"
+msgstr "Maneuverability Enhancement!"
+
+msgid "IDS_CMD_QUICK_DROP_SPEED_ACTIVE_MESSAGE"
+msgstr "\"Maneuverability Enhancement\" buff in"
+
 msgid "IDS_CMD_QUICK_DROP_SUPPORT_BUOY_RU_ACTIVE"
 msgstr "Firepower Enhancement!"
 
@@ -11820,6 +12249,12 @@ msgstr "Survivability Enhancement!"
 
 msgid "IDS_CMD_QUICK_DROP_SUPPORT_BUOY_US_ACTIVE_MESSAGE"
 msgstr "\"Survivability Enhancement\" buff in"
+
+msgid "IDS_CMD_QUICK_DROP_VISIBILITY_ACTIVE"
+msgstr "Concealment Enhancement!"
+
+msgid "IDS_CMD_QUICK_DROP_VISIBILITY_ACTIVE_MESSAGE"
+msgstr "\"Concealment Enhancement\" buff in"
 
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE"
 msgstr "Well done!"
@@ -13113,6 +13548,9 @@ msgstr "Collect"
 
 msgid "IDS_COLLECTING"
 msgstr "Collecting"
+
+msgid "IDS_COLLECTIONS"
+msgstr "Collections"
 
 msgid "IDS_COLLECTION_ALBUM_RECIEVED"
 msgstr "Collection"
@@ -21176,7 +21614,7 @@ msgid "IDS_CURRENCY_ELITE_XP"
 msgstr "Elite Commander XP"
 
 msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "Mysterious Shards"
+msgstr "Ancient treasures"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
 msgstr "Summer tokens"
@@ -21191,25 +21629,25 @@ msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
 msgstr "Temporary event resource 'Our Summer'. With the release of update 13.8, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "For participating in the limited-time portal event \"Project Oregon\", as well as from Armory containers during the event in updates 26.6 and 26.7."
+msgstr "For opening reward cards in the Armory, as well as compensation for receiving the super destroyer Jenkins again when completing stages of the path, if this ship is already in your Port, for a limited time during updates 26.9 and 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "For sequential bundles with the Tier VIII battleship Oregon with the permanent \"Bermuda\" camouflage and commemorative flag, with the special commander William Meyer Jr., with \"American Squadron\" premium containers, as well as other items during the event in updates 26.6 and 26.7."
+msgstr "For opening the card with the final reward — the super destroyer Amerigo Vespucci with the permanent camouflage \"Arno's Gold\" and a flag, as well as the premium containers \"Heart of the Artifact\", \"Stone Sarcophagus\", and \"Protective Mechanism\" — for a limited time in versions 26.9 and 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "Temporary resource of the portal event \"Project Oregon.\" It will be removed without compensation with the release of update 26.8."
+msgstr "Temporary resource of the \"11 Years: Once Upon a Time in the Wild Lands\" event. With the release of update 26.11, ancient treasures will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "Fleet Tokens"
+msgstr "Traveler Tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr "For completing combat missions within a limited time in update 26.7, as well as from bundles in the Armory until the end of update 26.7."
+msgstr "From the \"Mysterious Package\" containers and the premium containers \"Protective Mechanism\", \"Stone Sarcophagus\" and \"Heart of the Artifact\", as well as from the sets in the Armory for a limited time in updates 26.9 and 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "For random sets with the Tier X battleship \"Krasnoye Znamya\" and permanent camouflages \"Brilliant\" for \"Krasnoye Znamya\" and the Tier IX cruiser \"Shcherbakov\", for the permanent camouflage \"Pride of the Fleet\" for the Tier X cruiser Shenandoah, for \"Sea Celebration\" premium containers, and for other items until the end of update 26.7."
+msgstr "For opening reward cards, among which are the event resource Ancient Treasures, Supercontainers, Lesta Games premium containers, and other rewards, for sets with the special commander Calypso Carter and the Premium Ship VI premium container, as well as other property for a limited time in versions 26.9 and 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "Temporary resource. With the release of Update 26.8, it will be removed without compensation."
+msgstr "Temporary resource of the \"11 Years: Once Upon a Time in the Wild Lands\" event. With the release of Update 26.11, it will be removed without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_3"
 msgstr "American tokens"
@@ -21236,16 +21674,16 @@ msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
 msgstr "Temporary resource of the event \"Guardians of Etheria: Ice and Steam\". With the release of update 26.9, tokens will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_5"
-msgstr "Jutland tokens"
+msgstr "Map Fragments"
 
 msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
-msgstr "For completing combat missions during events within a limited time, as well as from bundles in the Armory during the event in updates 26.5 and 26.6."
+msgstr "For completing combat missions for a limited time in updates 26.9 and 26.10, as well as from bundles in the Armory for a limited time in updates 26.9 and 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
-msgstr "For the Tier X battleship Jellicoe with the permanent camouflage \"Grand Fleet\" and flag, for premium containers \"Golden Age of Industry,\" for premium containers \"Battle of Jutland,\" as well as for other items during the event in updates 26.5 and 26.6."
+msgstr "For completing the stages of the path to obtain the super destroyer Jenkins with the permanent camouflage \"Legendary Expedition\", the Tier IX cruiser Chōkai with a flag, as well as premium containers \"Heart of the Artifact\", \"Stone Sarcophagus\", \"Protective Mechanism\", and the container \"Mysterious Package\" within a limited time in updates 26.9 and 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
-msgstr "Temporary resource. Upon the release of update 26.7, the tokens will be removed without compensation."
+msgstr "Temporary resource of the \"11 Years: Once Upon a Time in the Wild Lands\" event. With the release of update 26.11, Map Fragments will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_6"
 msgstr "Summer Tokens"
@@ -21915,8 +22353,29 @@ msgstr "Average damage caused to ships per battle"
 msgid "IDS_DEAL_OUT_DAMAGE_TOOLTIP"
 msgstr "Total damage caused to ships"
 
+msgid "IDS_DEATHMATCH"
+msgstr "Deathmatch"
+
 msgid "IDS_DEATHMATCH_DESCRIPTION"
-msgstr "Eliminate all enemy ships"
+msgstr "Fight alone and earn points for destroying enemies. To win, score 15 points or finish the battle with the highest score."
+
+msgid "IDS_DEATHMATCH_ICON_RULES_HEADER_0"
+msgstr "Mode Features"
+
+msgid "IDS_DEATHMATCH_ICON_RULES_HEADER_1"
+msgstr "Types of buffs"
+
+msgid "IDS_DEATHMATCH_SCORE"
+msgstr "Points for destroying ships"
+
+msgid "IDS_DEATHMATCH_SCORE_IN_STATS"
+msgstr "Position %(_position)s"
+
+msgid "IDS_DEATHMATCH_START_TASK"
+msgstr "Destroy enemy ships and earn points for victory"
+
+msgid "IDS_DEATHMATCH_TITLE"
+msgstr "Deathmatch"
 
 msgid "IDS_DECAL_PCED001_NAME"
 msgstr "Russian Tricolor"
@@ -22028,6 +22487,39 @@ msgstr "Beta Tester"
 
 msgid "IDS_DECAL_PCED038_NAME"
 msgstr "For Astrillia!"
+
+msgid "IDS_DECAL_PCED039_NAME"
+msgstr "1 Year in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED040_NAME"
+msgstr "2 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED041_NAME"
+msgstr "3 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED042_NAME"
+msgstr "4 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED043_NAME"
+msgstr "5 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED044_NAME"
+msgstr "6 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED045_NAME"
+msgstr "7 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED046_NAME"
+msgstr "8 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED047_NAME"
+msgstr "9 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED048_NAME"
+msgstr "10 Years in \"Mir Korabley\""
+
+msgid "IDS_DECAL_PCED049_NAME"
+msgstr "11 Years in \"Mir Korabley\""
 
 msgid "IDS_DECAL_PCED050_NAME"
 msgstr "For Zar-Khan!"
@@ -23143,6 +23635,27 @@ msgstr ""
 msgid "IDS_DIVISION_READY"
 msgstr "The Division is ready"
 
+msgid "IDS_DM_ATTENTION_DAMAGE"
+msgstr "<body><span class=\"enemy\">%s</span> received a damage buff!</body>"
+
+msgid "IDS_DM_ATTENTION_INVISIBILITY"
+msgstr "<body><span class=\"enemy\">%s</span> received a camouflage buff!</body>"
+
+msgid "IDS_DM_ATTENTION_SPEED"
+msgstr "<body><span class=\"enemy\">%s</span> received a speed buff!</body>"
+
+msgid "IDS_DM_BATTLE_ENDED"
+msgstr "POSITION %(_position)s"
+
+msgid "IDS_DM_INVISIBILITY_60SEC"
+msgstr "You've become harder to detect!"
+
+msgid "IDS_DM_SUPER_DAMAGE_60SEC"
+msgstr "Damage dealt is doubled!"
+
+msgid "IDS_DM_SUPER_SPEED_60SEC"
+msgstr "Speed of your ship and torpedoes doubled!"
+
 msgid "IDS_DOBROJIR_DROBODANOVICH"
 msgstr "Dobrozhir Drobojanovich"
 
@@ -23695,9 +24208,6 @@ msgstr "Dockyard"
 msgid "IDS_DOCK_BANNER_SHIPYARD_WITH_SHIP"
 msgstr "Dockyard: %(_shipName)s"
 
-msgid "IDS_DOCK_BANNER_SNOWFLAKES"
-msgstr "Rewards"
-
 msgid "IDS_DOCK_BANNER_SSE_BATTLE_TASKS"
 msgstr "COMBAT MISSIONS"
 
@@ -23903,7 +24413,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY049_PLANESMOKEGENERATOR"
 msgstr "Generates a smoke screen that reduces the risk of allied ships being detected by the enemy."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY051_VAMPIREDAMAGE"
-msgstr "<p>Restores hit points by 60% of the damage dealt by main battery guns.</p><p class=\"p_spacing\"> </p><p>Repair consumable.</p>"
+msgstr "<p>Restores hit points by %(damageGMHealCoeff)s of the damage dealt by main battery guns.</p><p class=\"p_spacing\"> </p><p>Repair consumable.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY052_SHIELD"
 msgstr "Blocks all damage dealt to the ship."
@@ -23919,6 +24429,9 @@ msgstr "<p>Creates an area that temporarily enhances the survivability and maneu
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY054_MASSHEAL"
 msgstr "<p>Creates an area around the ship in which HP is partially restored for you and your allies.</p><p class=\"p_spacing\"> </p><p>Repair consumable.</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY055_ABILITYCLONES"
+msgstr " "
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY900_REGENCREWDE"
 msgstr "Partially restores the ship's health by repairing light damage. Restores armor in all sectors of the ship."
@@ -24538,6 +25051,9 @@ msgstr "Survivability Enhancement"
 msgid "IDS_DOCK_CONSUME_TITLE_PCY054_MASSHEAL"
 msgstr "Mobile repair station"
 
+msgid "IDS_DOCK_CONSUME_TITLE_PCY055_ABILITYCLONES"
+msgstr " "
+
 msgid "IDS_DOCK_CONSUME_TITLE_PCY900_REGENCREWDE"
 msgstr "Restoration Repair"
 
@@ -25029,6 +25545,9 @@ msgstr "Operational Repair Activities"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_SHIP_FRAG"
 msgstr "O.S.D. 'Zeus'"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_SNIPER_MAIN_GUNS"
+msgstr "Operational Control Over Combat Crews"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_TANKING_BOOST"
 msgstr "Operational Damage Control"
@@ -26326,13 +26845,13 @@ msgid "IDS_DOGTAG_PCNB139_NAME"
 msgstr "For Meritorious Service"
 
 msgid "IDS_DOGTAG_PCNB140_DESCRIPTION"
-msgstr "For outstanding skills and heroism demonstrated for two years."
+msgstr "For outstanding skills and heroism demonstrated for 2 years."
 
 msgid "IDS_DOGTAG_PCNB140_NAME"
 msgstr "For Meritorious Service"
 
 msgid "IDS_DOGTAG_PCNB141_DESCRIPTION"
-msgstr "For outstanding skills and heroism demonstrated for three years."
+msgstr "For outstanding skills and heroism demonstrated for 3 years."
 
 msgid "IDS_DOGTAG_PCNB141_NAME"
 msgstr "For Meritorious Service"
@@ -26716,7 +27235,7 @@ msgid "IDS_DOGTAG_PCNB204_NAME"
 msgstr "Summer PT Season"
 
 msgid "IDS_DOGTAG_PCNB205_DESCRIPTION"
-msgstr "For outstanding skills and heroism demonstrated for four years."
+msgstr "For outstanding skills and heroism demonstrated for 4 years."
 
 msgid "IDS_DOGTAG_PCNB205_NAME"
 msgstr "For Meritorious Service"
@@ -26998,7 +27517,7 @@ msgid "IDS_DOGTAG_PCNB251_NAME"
 msgstr "Transformers"
 
 msgid "IDS_DOGTAG_PCNB252_DESCRIPTION"
-msgstr "For outstanding skills and heroism demonstrated for five years."
+msgstr "For outstanding skills and heroism demonstrated for 5 years."
 
 msgid "IDS_DOGTAG_PCNB252_NAME"
 msgstr "For Meritorious Service"
@@ -27388,7 +27907,7 @@ msgid "IDS_DOGTAG_PCNB316_NAME"
 msgstr "Strength for Freedom"
 
 msgid "IDS_DOGTAG_PCNB317_DESCRIPTION"
-msgstr "For outstanding combat skills and gallantry demonstrated for six years on end."
+msgstr "For outstanding skills and heroism demonstrated for 6 years."
 
 msgid "IDS_DOGTAG_PCNB317_NAME"
 msgstr "For Meritorious Service"
@@ -27736,7 +28255,7 @@ msgid "IDS_DOGTAG_PCNB377_NAME"
 msgstr "Napoli"
 
 msgid "IDS_DOGTAG_PCNB378_DESCRIPTION"
-msgstr "For outstanding combat skills and gallantry demonstrated for seven years on end."
+msgstr "For outstanding skills and heroism demonstrated for 7 years."
 
 msgid "IDS_DOGTAG_PCNB378_NAME"
 msgstr "For Meritorious Service"
@@ -27874,7 +28393,7 @@ msgid "IDS_DOGTAG_PCNB400_NAME"
 msgstr "Hail, Boyar!"
 
 msgid "IDS_DOGTAG_PCNB401_DESCRIPTION"
-msgstr "For outstanding combat skills and gallantry demonstrated for eight years on end."
+msgstr "For outstanding skills and heroism demonstrated for 8 years."
 
 msgid "IDS_DOGTAG_PCNB401_NAME"
 msgstr "For Meritorious Service"
@@ -28126,7 +28645,7 @@ msgid "IDS_DOGTAG_PCNB448_NAME"
 msgstr "Golden Fish"
 
 msgid "IDS_DOGTAG_PCNB449_DESCRIPTION"
-msgstr "For combat feats and high military skill demonstrated over nine years."
+msgstr "For outstanding skills and heroism demonstrated for 9 years."
 
 msgid "IDS_DOGTAG_PCNB449_NAME"
 msgstr "For Meritorious Service"
@@ -28234,7 +28753,7 @@ msgid "IDS_DOGTAG_PCNB467_NAME"
 msgstr "80th Anniversary of Shumshu Island's Capture"
 
 msgid "IDS_DOGTAG_PCNB468_DESCRIPTION"
-msgstr "For combat feats and high naval skill demonstrated over ten years."
+msgstr "For outstanding skills and heroism demonstrated for 10 years."
 
 msgid "IDS_DOGTAG_PCNB468_NAME"
 msgstr "For Meritorious Service"
@@ -28304,6 +28823,12 @@ msgstr "<p>What sacrifices can be made in the name of progress? While Astriilia 
 
 msgid "IDS_DOGTAG_PCNB480_NAME"
 msgstr "The cost of progress"
+
+msgid "IDS_DOGTAG_PCNB481_DESCRIPTION"
+msgstr "For outstanding skills and heroism demonstrated for 11 years."
+
+msgid "IDS_DOGTAG_PCNB481_NAME"
+msgstr "For Meritorious Service"
 
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "The patch is a work in progress."
@@ -30236,7 +30761,7 @@ msgid "IDS_ERROR_ACCOUNT_BANNED_UNSUSPEND"
 msgstr "Account restoration is in progress."
 
 msgid "IDS_ERROR_ACCOUNT_IS_ALREADY_BOUND"
-msgstr "The specified 'Lesta ID' is already linked to another Steam account."
+msgstr "The specified 'Lesta ID' is already linked to another account."
 
 msgid "IDS_ERROR_ACCOUNT_IS_NOT_ACTIVATED"
 msgstr "The specified 'Lesta ID' is not activated."
@@ -30335,7 +30860,7 @@ msgid "IDS_ERROR_SERVER_SHUTDOWN"
 msgstr "The server is being rebooted. Please try again later."
 
 msgid "IDS_ERROR_STEAM_NOT_READY"
-msgstr "Steam service interaction login error"
+msgstr "Service interaction error"
 
 msgid "IDS_ERROR_UNKNOWN"
 msgstr "Unknown error"
@@ -33724,6 +34249,9 @@ msgstr "7×7"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE033"
 msgstr "12×12"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE035"
+msgstr "1х8"
+
 msgid "IDS_FORM_DIVISION"
 msgstr "Form a division"
 
@@ -34204,6 +34732,18 @@ msgstr "Attacking team"
 msgid "IDS_GAMEMODE_CONVOY_TEAM_DEFENDERS"
 msgstr "Escorting team"
 
+msgid "IDS_GAMEMODE_DEATHMATCH_RULES_DESCRIPTION_TEXT_0_0"
+msgstr "Destroy Dangerous Targets to earn more points. Beware: you too can become such a target."
+
+msgid "IDS_GAMEMODE_DEATHMATCH_RULES_DESCRIPTION_TEXT_1_0"
+msgstr "Ship Maneuverability Enhancement"
+
+msgid "IDS_GAMEMODE_DEATHMATCH_RULES_DESCRIPTION_TEXT_1_1"
+msgstr "All Ship Weapons Damage Enhancement"
+
+msgid "IDS_GAMEMODE_DEATHMATCH_RULES_DESCRIPTION_TEXT_1_2"
+msgstr "Concealment Enhancement"
+
 msgid "IDS_GAMEMODE_DOMINATION_DESCRIPTION"
 msgstr "Destroy all enemy ships or capture the base."
 
@@ -34562,6 +35102,9 @@ msgstr "Go to the Campaigns screen"
 
 msgid "IDS_GO_TO_CLANS"
 msgstr "Go to the Clans screen"
+
+msgid "IDS_GO_TO_COLLECTIONS_MOUSE_INSTRUCTION"
+msgstr "Go to the Collections screen"
 
 msgid "IDS_GO_TO_COLLECTION_SSE_BUTTON"
 msgstr "Go to collection"
@@ -34986,14 +35529,17 @@ msgstr "You now have access to superships and can obtain them in the Tech Tree."
 msgid "IDS_GUIDING_TIP_252_HEADER"
 msgstr "Access to Superships"
 
+msgid "IDS_GUIDING_TIP_253_DESC"
+msgstr "You can collect rewards from ships without taking them into battle! To do this, you need to open the ship's hold using a key."
+
 msgid "IDS_GUIDING_TIP_253_HEADER"
-msgstr "Festive Rewards"
+msgstr "Claim rewards more easily"
 
 msgid "IDS_GUIDING_TIP_254_DESC"
-msgstr "Don't forget to claim your festive rewards! After the end of the event, any unclaimed rewards will be removed without compensation."
+msgstr "Rewards are still in your ships' holds! Claim them — after the event concludes, rewards will be written off without compensation."
 
 msgid "IDS_GUIDING_TIP_254_HEADER"
-msgstr "Festive Rewards"
+msgstr "Rewards in holds"
 
 msgid "IDS_GUIDING_TIP_255_DESC"
 msgstr "Fighting back-to-back is both exciting and beneficial!"
@@ -35685,11 +36231,59 @@ msgstr "Use a warrant to get a ship of the corresponding tier!"
 msgid "IDS_GUIDING_TIP_372_HEADER"
 msgstr "Ship Warrant"
 
+msgid "IDS_GUIDING_TIP_373_DESC"
+msgstr "Here the number of keys you can use to obtain rewards is displayed."
+
+msgid "IDS_GUIDING_TIP_373_HEADER"
+msgstr "Number of Keys"
+
+msgid "IDS_GUIDING_TIP_374_DESC"
+msgstr "Select the ships from whose holds you want to collect the reward."
+
+msgid "IDS_GUIDING_TIP_374_HEADER"
+msgstr "List of Ships"
+
+msgid "IDS_GUIDING_TIP_375_DESC"
+msgstr "Click to automatically select the first ships from the list."
+
+msgid "IDS_GUIDING_TIP_375_HEADER"
+msgstr "Select all"
+
+msgid "IDS_GUIDING_TIP_376_DESC"
+msgstr "The total number of rewards you can obtain from your ships. The list will change when you purchase or sell a ship with a reward in her hold."
+
+msgid "IDS_GUIDING_TIP_376_HEADER"
+msgstr "Rewards"
+
+msgid "IDS_GUIDING_TIP_377_DESC"
+msgstr "Here the number of keys you can use to obtain rewards is displayed."
+
+msgid "IDS_GUIDING_TIP_377_HEADER"
+msgstr "Number of Keys"
+
+msgid "IDS_GUIDING_TIP_378_DESC"
+msgstr "Select the ships from whose holds you want to collect the reward."
+
+msgid "IDS_GUIDING_TIP_378_HEADER"
+msgstr "List of Ships"
+
+msgid "IDS_GUIDING_TIP_379_DESC"
+msgstr "Click to automatically select the first ships from the list."
+
+msgid "IDS_GUIDING_TIP_379_HEADER"
+msgstr "Select all"
+
 msgid "IDS_GUIDING_TIP_37_DESC"
 msgstr "A commander will improve your ship's characteristics and provide new capabilities in battle."
 
 msgid "IDS_GUIDING_TIP_37_HEADER"
 msgstr "Assign a commander"
+
+msgid "IDS_GUIDING_TIP_380_DESC"
+msgstr "The total number of rewards you can obtain from your ships. The list will change when you purchase or sell a ship with a reward in her hold."
+
+msgid "IDS_GUIDING_TIP_380_HEADER"
+msgstr "Rewards"
 
 msgid "IDS_GUIDING_TIP_38_DESC"
 msgstr "To level up your commander and learn skills, earn commander experience in battle."
@@ -37259,10 +37853,10 @@ msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_IN_PROGRESS_DISABLE"
 msgstr "Reset ships undergoing trials"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SNOWFLAKES"
-msgstr "Show ships with festive rewards"
+msgstr "Show ships with a reward in the hold"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SNOWFLAKES_DISABLE"
-msgstr "Reset ships with festive rewards"
+msgstr "Reset ships with a reward in the hold"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_UNLINK_FROM"
 msgstr "Remove ship from the group"
@@ -39008,6 +39602,15 @@ msgid "IDS_KILLED_HOUNDS_QTY_FOR_WAFFENTRAGER"
 msgstr ""
 "Hounds\n"
 "destroyed"
+
+msgid "IDS_KILLSTREAK_OTHER"
+msgstr "<body>[st_x2] <span class=\"enemy\">%(playerName)s</span> is especially dangerous! Destroy now!</body>"
+
+msgid "IDS_KILLSTREAK_OWN"
+msgstr "[st_x2] You have become a Dangerous target. Be careful: the hunt has begun!"
+
+msgid "IDS_KILL_3_BONUS"
+msgstr "Destroying player %s will grant x2 points"
 
 msgid "IDS_KILL_BAD_GUYS_AND_STAY_ALIVE_TASK_END_S"
 msgstr "Destroyers Megaera, Alecto, and Tisiphone have been sunk!"
@@ -42274,9 +42877,6 @@ msgstr "Show range numerical values"
 msgid "IDS_MINIMAP_DIST_DIS_CHCK_SELECTED"
 msgstr "Hide range numerical values"
 
-msgid "IDS_MINIMAP_EAST"
-msgstr "E"
-
 msgid "IDS_MINIMAP_LAST_VIS"
 msgstr "Last known position markers"
 
@@ -42294,9 +42894,6 @@ msgstr "Main battery unavailable"
 
 msgid "IDS_MINIMAP_MG_RANGE_CHCK_SELECTED"
 msgstr "Hide the main battery firing range"
-
-msgid "IDS_MINIMAP_NORTH"
-msgstr "N"
 
 msgid "IDS_MINIMAP_OPTIONS_AARANGEMAXENABLED"
 msgstr "AA guns maximum firing range"
@@ -42430,9 +43027,6 @@ msgstr "Show the Hydroacoustic Search action range"
 msgid "IDS_MINIMAP_SONAR_RANGE_CHCK_SELECTED"
 msgstr "Hide the Hydroacoustic Search action range"
 
-msgid "IDS_MINIMAP_SOUTH"
-msgstr "S"
-
 msgid "IDS_MINIMAP_TA_RANGE_CHCK"
 msgstr "Show the torpedo range"
 
@@ -42453,9 +43047,6 @@ msgstr "Show the detectability range by sea"
 
 msgid "IDS_MINIMAP_VIS_RANGE_CHCK_SELECTED"
 msgstr "Hide the detectability range by sea"
-
-msgid "IDS_MINIMAP_WEST"
-msgstr "W"
 
 msgid "IDS_MINIMUM"
 msgstr "Very Low"
@@ -43651,6 +44242,78 @@ msgstr "You can enter battle with a Tier VIII or IX ship. All classes are allowe
 msgid "IDS_MODAL_WINDOW_PCVE033_RULES_PARAGRAPH_4_TEXT_2"
 msgstr "Team size: 12 vs 12. Maximum Division size: 3."
 
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_HEADER"
+msgstr "Deathmatch"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "TASK"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Fight alone against everyone and earn points for destroying enemies. If your ship is sunk, you will return to battle at a random point on the map."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "BUFF ZONES"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "In different places on the map, zones will appear where you can improve the ship's characteristics."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "DANGEROUS TARGET"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Destroy Dangerous Targets — ships that have sunk more than 3 enemies — to earn more points. Remember: you too can become such a target."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_WIN_POINTS"
+msgstr "+%(_winPoints)d"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_HEADER"
+msgstr "Deathmatch"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "In such battle, there are no teams — players fight for themselves. Destroy opponents and earn points by destroying ships. The first to gain 15 points wins the battle."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "If by the end of the battle no one has scored the required points, the player with the most points becomes the winner. In case of a tie, the one who first achieved this result wins."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_1_TEXT_3"
+msgstr "Any ship that has destroyed 3 enemies in a row and has not been sunk becomes a Dangerous Target. Destroying it can earn twice as many points."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_1_TEXT_4"
+msgstr "For every ship destroyed, a certain number of HP will be restored to you."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_2_HEADER"
+msgstr "Scoring Points"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Destroying Enemies"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_3_HEADER"
+msgstr "Return to Battle"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "If your ship is destroyed, you will return to battle at a random point on the map."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "For a few seconds after returning, damage taken will be reduced."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_4_HEADER"
+msgstr "Characteristics Changes"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "The main characteristics of ship types have been changed so that all ships start the battle on equal terms."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "During the battle, zones will appear in different parts of the map where ships can receive an enhancement."
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_5_HEADER"
+msgstr "Participation Rules"
+
+msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_5_TEXT_1"
+msgstr "Suitable ships:"
+
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
 msgstr "Hydra Den"
 
@@ -43990,35 +44653,47 @@ msgstr "You can reset your trials and get new ones at any time."
 msgid "IDS_MODAL_WINDOW_SHIP_PURCHASE_SHIP_PRICE"
 msgstr "Ship price"
 
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_BUTTON"
+msgstr "View hints"
+
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_HEADER"
-msgstr "Earning conditions"
+msgstr "Rules"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_HEADER"
-msgstr "How to earn rewards"
+msgstr "Rewards in holds"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Every Soviet ship in your Port, from Tier III to super ships, has been granted a festive reward. To claim a ship's reward, you must take it into battle and earn 300 base XP or achieve a victory."
+msgstr "Rewards are in the hold of each of your ships, from Tier III to super-ships."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "At the end of the event, any unclaimed rewards will be removed without compensation."
+msgstr "To claim the reward from the hold, you need to earn 300 units of Base XP or win by taking your ship into battle."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_HEADER"
-msgstr "More rewards per battle"
+msgstr "Keys to the Holds"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "If you earn more base XP in a battle on a ship with a reward, you can claim rewards from other ships without entering battle with them."
-
-msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "The more ships in your Port, the greater the maximum number of rewards you can collect from a single battle."
-
-msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_3"
-msgstr ""
-"  • 100 ships: +1 rewards for 350 XP;\n"
-"  • 200 ships: +2 rewards for 400 XP;\n"
-"  • 300 ships: +3 rewards for 450 XP."
+msgstr "You can collect rewards from the ship without taking it into battle, if you have the key to the hold."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_HEADER"
-msgstr "Number of Rewards"
+msgstr "How to get keys"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Along with the reward, you will be credited with Keys to the Holds."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "By default, keys are awarded only for battles on ships with rewards, however you can purchase an upgrade to receive keys on any ships."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_4_HEADER"
+msgstr "More Keys"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "The more ships you have, the more keys you can get per battle."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_TABLE_ROW_1"
+msgstr "Your ships"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_TABLE_ROW_2"
+msgstr "Number of Keys"
 
 msgid "IDS_MODAL_WINDOW_STRATEGIC_ACTIONS_RULES_BUTTON"
 msgstr "Complete Tutorial"
@@ -44760,14 +45435,32 @@ msgstr "Sounds adjust to selected playback device."
 msgid "IDS_MUSIC_MOD"
 msgstr "Music in battle"
 
+msgid "IDS_MUSIC_MOD_ARIA"
+msgstr "Aria"
+
+msgid "IDS_MUSIC_MOD_BASE"
+msgstr "Basic musical accompaniment"
+
+msgid "IDS_MUSIC_MOD_BASE_DESCRIPTION"
+msgstr "When entering battle with a commander that has unique musical accompaniment, music from the \"Standard\" category will play."
+
 msgid "IDS_MUSIC_MOD_DESCRIPTION"
 msgstr "Type of musical accompaniment in battle."
+
+msgid "IDS_MUSIC_MOD_DOBROJIR"
+msgstr "Dobrozhir Drobojanovich"
+
+msgid "IDS_MUSIC_MOD_DREADNOUGHT"
+msgstr "Era of Dreadnoughts"
 
 msgid "IDS_MUSIC_MOD_DYNAMIC"
 msgstr "Modern"
 
 msgid "IDS_MUSIC_MOD_DYNAMIC_DESCRIPTION"
 msgstr "Music dominated by electronic sounds."
+
+msgid "IDS_MUSIC_MOD_LANA"
+msgstr "Eteria"
 
 msgid "IDS_MUSIC_MOD_LEGACY"
 msgstr "Cinematic"
@@ -44780,6 +45473,30 @@ msgstr "Standard"
 
 msgid "IDS_MUSIC_MOD_MIXED_DESCRIPTION"
 msgstr "Combines cinematic and modern compositions. The nature of the music changes depending on the events in battle."
+
+msgid "IDS_MUSIC_MOD_RADIO_TAPOK"
+msgstr "Radio Tapok"
+
+msgid "IDS_MUSIC_MOD_SHERLOCK"
+msgstr "Sherlock Holmes"
+
+msgid "IDS_MUSIC_MOD_SPACE_APRIL"
+msgstr "Space Era"
+
+msgid "IDS_MUSIC_MOD_THREE_KINGDOMS"
+msgstr "Three Kingdoms"
+
+msgid "IDS_MUSIC_MOD_TRANSFORMERS"
+msgstr "Transformers"
+
+msgid "IDS_MUSIC_MOD_UNIQUE"
+msgstr "Unique"
+
+msgid "IDS_MUSIC_MOD_UNIQUE_DESCRIPTION"
+msgstr "Unique musical accompaniment from events. Select a category from the list."
+
+msgid "IDS_MUSIC_MOD_WAFFENTRAGER"
+msgstr "Waffenträger"
 
 msgid "IDS_MUSIC_MOD_WARDRUMS"
 msgstr "War Drums"
@@ -46619,20 +47336,23 @@ msgstr "Naval courses"
 msgid "IDS_NEWBIE_QUESTS_COMMON_TITLE"
 msgstr "Naval courses"
 
-msgid "IDS_NEWBIE_QUESTS_DESC"
-msgstr "Complete missions to help you get familiar with the world of naval battles. Upon finishing the courses, you will receive a new ship!"
-
 msgid "IDS_NEWBIE_QUESTS_DIVISION_READY_BUTTON_HINT"
 msgstr "\"Ready for battle\" status selected. Click \"Not ready\" to view tips."
-
-msgid "IDS_NEWBIE_QUESTS_DONE_DESC"
-msgstr "You have completed all tasks. A new ship is available — take command and begin new combat missions!"
 
 msgid "IDS_NEWBIE_QUESTS_DONE_HEADER"
 msgstr "COURSES COMPLETED!"
 
+msgid "IDS_NEWBIE_QUESTS_DONE_RETURN_REWARD_DESC"
+msgstr "You have completed all tasks and are ready to return to duty. A reward has been credited to you — collect it and proceed to carry out new combat missions!"
+
+msgid "IDS_NEWBIE_QUESTS_DONE_SHIP_REWARD_DESC"
+msgstr "You have completed all tasks. A new ship is available to you — take command and proceed to new combat missions!"
+
 msgid "IDS_NEWBIE_QUESTS_FINAL_REWARD_CLAIMED"
-msgstr "Ship acquired"
+msgstr "Reward received"
+
+msgid "IDS_NEWBIE_QUESTS_FINAL_SHIP_REWARD_CLAIMED"
+msgstr "Ship Acquired"
 
 msgid "IDS_NEWBIE_QUESTS_FULL_LIST"
 msgstr "ALL MISSIONS"
@@ -46649,11 +47369,17 @@ msgstr "Reward received:"
 msgid "IDS_NEWBIE_QUESTS_RECEIVED_TOOLTIP_COLON"
 msgstr "Reward received:"
 
+msgid "IDS_NEWBIE_QUESTS_RETURN_REWARD_DESC"
+msgstr "Complete tasks to restore combat skills and return to the world of naval battles sooner. Upon completion of the courses, you will receive a valuable reward!"
+
 msgid "IDS_NEWBIE_QUESTS_REWARD_COLON"
 msgstr "Completion reward:"
 
 msgid "IDS_NEWBIE_QUESTS_REWARD_TOOLTIP_COLON"
 msgstr "Completion reward:"
+
+msgid "IDS_NEWBIE_QUESTS_SHIP_REWARD_DESC"
+msgstr "Complete tasks that will help you get accustomed to the universe of naval battles. Upon completion of the courses, you will receive a new ship!"
 
 msgid "IDS_NEWBIE_QUESTS_START_TIP_CHAIN_BUTTON"
 msgstr "VIEW TIPS"
@@ -46670,11 +47396,17 @@ msgstr "You cannot start the tutorial chain while battle search is active"
 msgid "IDS_NEWBIE_QUESTS_WARNING_NO_SHIPS"
 msgstr "To activate tips, purchase any ship"
 
+msgid "IDS_NEWBIE_QUEST_ABOUT_REWARD"
+msgstr "About the Reward"
+
 msgid "IDS_NEWBIE_QUEST_BATTLE_MOTIVATOR_PIN_HINT"
 msgstr "Pin combat mission"
 
 msgid "IDS_NEWBIE_QUEST_BATTLE_MOTIVATOR_UNPIN_HINT"
 msgstr "Unpin combat mission"
+
+msgid "IDS_NEWBIE_QUEST_CLAIM_REWARD"
+msgstr "CLAIM REWARD"
 
 msgid "IDS_NEWBIE_QUEST_CLAIM_SHIP"
 msgstr "CLAIM THE SHIP"
@@ -47061,12 +47793,6 @@ msgstr "No saved replays available"
 
 msgid "IDS_NO_CURRENT_SAVED_REPLAYS_DISCLAIMER"
 msgstr "You can save recent replays in the context menu."
-
-msgid "IDS_NO_CURRENT_SNOWFLAKES_SHIPS"
-msgstr "Festive rewards are unavailable"
-
-msgid "IDS_NO_CURRENT_SNOWFLAKES_SHIPS_DESCRIPTION"
-msgstr "No ships available to claim rewards"
 
 msgid "IDS_NO_CURRENT_TASKS"
 msgstr "No combat missions available"
@@ -47562,6 +48288,9 @@ msgstr "Select an upgrade"
 
 msgid "IDS_OPEN_MODULES_LIST_MOUSE_INSTRUCTION"
 msgstr "Open modules list"
+
+msgid "IDS_OPEN_PARAMETERIZED"
+msgstr "Open %(_count)s"
 
 msgid "IDS_OPEN_SYSTEM_MESSAGES"
 msgstr "Open list of messages"
@@ -51219,6 +51948,9 @@ msgstr "Ceremonial"
 msgid "IDS_PAES491_CHESAPEAKE_CEREMONIAL"
 msgstr "Ceremonial"
 
+msgid "IDS_PAES501_JENKINS_EXPEDITION"
+msgstr "Legendary Expedition"
+
 msgid "IDS_PAES505_MAD_HILL"
 msgstr "Master of the Water World"
 
@@ -51726,6 +52458,9 @@ msgstr "152 mm/47 Mk.16 in a turret"
 msgid "IDS_PAGM242_8IN55_MK71_SINGLE"
 msgstr "203 mm/55 Mk.71 in a turret"
 
+msgid "IDS_PAGM246_16IN_56_MK4_TWIN"
+msgstr "406 mm/56 Mk.4 in a turret"
+
 msgid "IDS_PAGM507_8IN55_TRIPLE_MK16_SPACE"
 msgstr "203 mm/55 RF Mk.16 in a turret"
 
@@ -52117,7 +52852,7 @@ msgid "IDS_PAPA049_SHELL_120_HE_45LBS"
 msgstr "120 mm HE 45 lb"
 
 msgid "IDS_PAPA050_152MM_AP_130LBS_MK35"
-msgstr "152 mm AP 130 lb Mk35"
+msgstr "152 mm AP 130 lb Mk35 mod.1"
 
 msgid "IDS_PAPA051_152MM_HE_HC_MARK_39_MOD_0"
 msgstr "152 mm HE Mk39"
@@ -52447,13 +53182,13 @@ msgid "IDS_PAPA161_203MM_HE_N_HAMPSHIRE"
 msgstr "203 mm HE/HC Mk25"
 
 msgid "IDS_PAPA162_203MM_AP_N_HAMPSHIRE"
-msgstr "203 mm AP Mk19"
+msgstr "203 mm AP Mk21"
 
 msgid "IDS_PAPA163_152MM_HE_CHESAPEAKE"
-msgstr "152 mm HE Mk39"
+msgstr "152 mm HE Mk39 mod.1"
 
 msgid "IDS_PAPA164_152MM_AP_CHESAPEAKE"
-msgstr "152 mm AP Mk35"
+msgstr "152 mm AP Mk35 mod.2"
 
 msgid "IDS_PAPA165_127MM_CS_ARCHERFISH"
 msgstr "127mm CS"
@@ -52465,10 +53200,10 @@ msgid "IDS_PAPA167_203MM_AP_CHANCELLORSVILLE"
 msgstr "203 mm AP Mk19"
 
 msgid "IDS_PAPA168_152MM_HE_STONEWALL"
-msgstr "152 mm HE Mk39"
+msgstr "152 mm HE Mk39 mod.1"
 
 msgid "IDS_PAPA169_152MM_AP_STONEWALL"
-msgstr "152 mm AP Mk35"
+msgstr "152 mm AP Mk35 mod.1"
 
 msgid "IDS_PAPA170_406MM_HE_T11"
 msgstr "406 mm HE/HC Mk13"
@@ -52556,6 +53291,18 @@ msgstr "356 mm HE/HC Mk22"
 
 msgid "IDS_PAPA218_356MM_AP_OREGON"
 msgstr "356 mm AP Mk16"
+
+msgid "IDS_PAPA219_406MM_HE_N_DAKOTA"
+msgstr "406 mm HE Mk3"
+
+msgid "IDS_PAPA220_406MM_AP_N_DAKOTA"
+msgstr "406 mm AP Mk3"
+
+msgid "IDS_PAPA221_152MM_AP_9"
+msgstr "152 mm AP Mk35 mod.1"
+
+msgid "IDS_PAPA222_152MM_HE_9_10"
+msgstr "152 mm HE Mk39 mod.1"
 
 msgid "IDS_PAPA301_SHELL_305MM_AP_AP_SAND"
 msgstr "305 mm AP mod.1"
@@ -54160,6 +54907,9 @@ msgstr "Wavecaster recharge time"
 msgid "IDS_PARAMS_MODIFIER_HEALFORSAGERELOADCOEFF"
 msgstr "Engine Cooling consumable cooldown time"
 
+msgid "IDS_PARAMS_MODIFIER_HEALTHHULLBONUS"
+msgstr "Ship HP"
+
 msgid "IDS_PARAMS_MODIFIER_HEALTHHULLCOEFF"
 msgstr "Ship HP"
 
@@ -55021,7 +55771,7 @@ msgid "IDS_PARAMS_MODIFIER_ZONELIFETIME"
 msgstr "Area action time"
 
 msgid "IDS_PARAM_HIGH_VISIBILITY_TIME"
-msgstr "The duration of increased ship detectability after firing a main gun shell"
+msgstr "Duration of increased ship detectability after firing a main battery or intermediate battery shell"
 
 msgid "IDS_PARAM_HIGH_VISIBILITY_TIME_AA"
 msgstr "The duration of increased ship detectability after firing an AA gun shell"
@@ -55069,6 +55819,9 @@ msgstr "next week"
 
 msgid "IDS_PARTICIPANTS"
 msgstr "PARTICIPANTS"
+
+msgid "IDS_PARTICIPANTS_STRUCTURE"
+msgstr "Participants"
 
 msgid "IDS_PARTICLES_PRESET"
 msgstr "Effect details"
@@ -56046,6 +56799,21 @@ msgstr "4"
 
 msgid "IDS_PASB528_YEAR"
 msgstr "1942"
+
+msgid "IDS_PASB529"
+msgstr "N. Dakota"
+
+msgid "IDS_PASB529_DESCR"
+msgstr "<p>In 1918, the U.S. Navy received data from its British allies on the characteristics of the battlecruiser HMS Hood. After studying it, the American naval leadership wanted to improve existing ship designs so that they would not be inferior to the British example, or even surpass it.</p><p class=\"p_spacing\"> </p><p>It was decided to make changes to the drawings of battlecruisers already under development. In March 1919, a battlecruiser design with a displacement of 35,300 tons and carrying eight 16-inch guns was proposed. Further refinement of the design led to the appearance of the Lexington-class battlecruisers.</p>"
+
+msgid "IDS_PASB529_FULL"
+msgstr "North Dakota"
+
+msgid "IDS_PASB529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASB529_YEAR"
+msgstr "1919"
 
 msgid "IDS_PASB538"
 msgstr "Constellation"
@@ -57439,7 +58207,7 @@ msgid "IDS_PASD521"
 msgstr "Jenkins"
 
 msgid "IDS_PASD521_DESCR"
-msgstr "A ship for testing."
+msgstr "<p>In response to the large destroyers being built in Japan, American engineers developed new destroyer leaders bearing the name Somers. Compared with the prototype—the Porter-class ships—the Somers-class leaders were equipped with new, high-temperature boilers. It was decided to abandon the torpedo reload system, which allowed three torpedo tubes to be placed along the ship's centerline. The main-caliber guns were not dual-purpose.</p><p class=\"p_spacing\"> </p><p>If the Somers class had been further developed, the new destroyers could have received enhanced torpedo and anti-aircraft armament.</p>"
 
 msgid "IDS_PASD521_FULL"
 msgstr "Jenkins"
@@ -57448,7 +58216,7 @@ msgid "IDS_PASD521_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASD521_YEAR"
-msgstr "1943"
+msgstr "1940"
 
 msgid "IDS_PASD529"
 msgstr "Black B"
@@ -58092,6 +58860,9 @@ msgstr "127 mm/70 Mk.44 in a turret"
 
 msgid "IDS_PAUA817_BB9_ART_STOCK"
 msgstr "406 mm/45 Mk.6 in a turret"
+
+msgid "IDS_PAUA818_ART_NORTH_DAKOTA"
+msgstr "406 mm/56 Mk.4 in a turret"
 
 msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk.7 in a turret"
@@ -58977,6 +59748,9 @@ msgstr "Propulsion: 75,000 hp"
 
 msgid "IDS_PAUE816_BB9_ENG_STOCK"
 msgstr "Propulsion: 130,000 hp"
+
+msgid "IDS_PAUE817_ENG_NORTH_DAKOTA"
+msgstr "Propulsion: 212,000 hp"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "Propulsion: 120,000 hp"
@@ -59898,6 +60672,9 @@ msgstr "Fletcher (C)"
 msgid "IDS_PAUH824_BB9_HULL_STOCK"
 msgstr "Indiana"
 
+msgid "IDS_PAUH825_HULL_NORTH_DAKOTA"
+msgstr "North Dakota"
+
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "Iowa (A)"
 
@@ -60753,6 +61530,9 @@ msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS823_BB9_SUO_STOCK"
 msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS824_SUO_NORTH_DAKOTA"
+msgstr "Mk38"
 
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 mod. 1"
@@ -72288,6 +73068,24 @@ msgstr "USS Jenkins"
 msgid "IDS_PCEE830_JENKINS_FLAG_DESCRIPTION"
 msgstr "Thornton Jenkins is an American naval officer who distinguished himself in the Civil War and later attained the rank of rear admiral. On the shoulder boards of a U.S. Navy rear admiral of that era were an anchor and two stars."
 
+msgid "IDS_PCEE831_BIRTHDAY2026_FLAG"
+msgstr "11th Game Anniversary"
+
+msgid "IDS_PCEE831_BIRTHDAY2026_FLAG_DESCRIPTION"
+msgstr "In honor of the 11th anniversary of \"Universe of Warships (Мир кораблей)\"."
+
+msgid "IDS_PCEE832_NIBELUNG_FLAG"
+msgstr "Nibelung"
+
+msgid "IDS_PCEE832_NIBELUNG_FLAG_DESCRIPTION"
+msgstr "The victory of the warrior Sigurd over the dragon Fafnir is one of the most famous stories in the Germanic-Scandinavian epic. In Richard Wagner's opera cycle \"The Ring of the Nibelung,\" the hero pierces the monster with his sword and, having accidentally tasted a drop of its blood, begins to understand the language of forest birds."
+
+msgid "IDS_PCEE833_AMERIGO_VESPUCCI_FLAG"
+msgstr "RN Amerigo Vespucci"
+
+msgid "IDS_PCEE833_AMERIGO_VESPUCCI_FLAG_DESCRIPTION"
+msgstr "Amerigo Vespucci was an Italian navigator and explorer. He was one of the first to suggest that the lands discovered by Christopher Columbus were not part of Asia but a new continent. In 1507, these lands were first named after Vespucci — America."
+
 msgid "IDS_PCEE834_HAKUSAN_FLAG"
 msgstr "Hakusan"
 
@@ -72326,6 +73124,30 @@ msgstr "Ivan Grozny"
 
 msgid "IDS_PCEE846_IVAN_GROZNY_FLAG_DESCRIPTION"
 msgstr "During the reign of Ivan Grozny (Ivan the Terrible), the unicorn became one of the symbols of tsarist power. The image of this mythical creature adorned the Great State Seal, created in 1561, as well as several large artillery pieces, including the 68-pound arquebus \"Inrog\"."
+
+msgid "IDS_PCEE848_HANKO_FLAG"
+msgstr "Hanko"
+
+msgid "IDS_PCEE848_HANKO_FLAG_DESCRIPTION"
+msgstr "In 1945, the first monument in the city to the heroes of the Great Patriotic War was erected in Leningrad — a memorial wall dedicated to the 164-day defense of the Hanko Peninsula."
+
+msgid "IDS_PCEE849_MOONSUND_FLAG"
+msgstr "Moonsund"
+
+msgid "IDS_PCEE849_MOONSUND_FLAG_DESCRIPTION"
+msgstr "In 1917 and 1941, the Moonsund Islands became the site of bloody battles in which coastal batteries and naval artillery played a key role. In 1902, a breast badge \"For the Best Shooting from Guns\" was approved for sailor-gunners."
+
+msgid "IDS_PCEE850_TROLL_FLAG"
+msgstr "HSwMS Troll"
+
+msgid "IDS_PCEE850_TROLL_FLAG_DESCRIPTION"
+msgstr "Trolls are popular characters in Scandinavian folklore. In myths, they were most often depicted as evil giants living in mountains, caves, or forests and avoiding sunlight, which could turn them to stone."
+
+msgid "IDS_PCEE851_NORTH_DAKOTA_FLAG"
+msgstr "USS North Dakota"
+
+msgid "IDS_PCEE851_NORTH_DAKOTA_FLAG_DESCRIPTION"
+msgstr "In the history of the Wild West, the prairies of North Dakota hold a special place. In the 19th century, clashes took place here between settlers, the U.S. Army, and indigenous peoples; forts were built, railroads were laid, and coal was mined. In 1889, the territory became the 39th state of the United States."
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Santas Wanted 2016"
@@ -72755,6 +73577,9 @@ msgstr "HE Shell"
 
 msgid "IDS_PCPA085_406MM_AP_FOR_TEST_2"
 msgstr "AP Shell"
+
+msgid "IDS_PCPB001_SIGNALBOMB"
+msgstr "2Kg Smoke Float"
 
 msgid "IDS_PCPT010_533MM_FOR_TEST"
 msgstr "Torpedo"
@@ -73222,6 +74047,15 @@ msgstr "Battle between two teams of players. Two modes are available with unusua
 
 msgid "IDS_PCVE033_SUBHEADER"
 msgstr "Battle for Key Areas in two modes"
+
+msgid "IDS_PCVE035"
+msgstr "Deathmatch"
+
+msgid "IDS_PCVE035_DESCRIPTION"
+msgstr "Battle between players without team. Each fights for themselves and earns points for eliminating opponents."
+
+msgid "IDS_PCVE035_SUBHEADER"
+msgstr "Fight alone against other players"
 
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "An allied naval division has been attacked. Some ships have been destroyed, and the transport ships that were captured are being convoyed to the enemy base now. Intercept the enemy convoy and take back the allied ships."
@@ -83715,6 +84549,9 @@ msgstr "Steam and Steel"
 msgid "IDS_PGES438_BLACK_MAINZ"
 msgstr "Special"
 
+msgid "IDS_PGES439_NIBELUNG_GOLD"
+msgstr "Das Rhinegold"
+
 msgid "IDS_PGES448_SABIE_TM5"
 msgstr "Nokmar's Pride"
 
@@ -86614,7 +87451,7 @@ msgid "IDS_PGSC549"
 msgstr "Nibelung"
 
 msgid "IDS_PGSC549_DESCR"
-msgstr "A ship for testing."
+msgstr "This ship is devoid of festive radiance — it is cold, like the treasure of an ancient people that has lain in darkness for centuries. Its form hints at the shapes of massive fibulae and buckles, set within a rigid, almost military geometry: these are not ornaments, but trophies from the legends of the Nibelungs. That which holds such value often carries with it mortal danger."
 
 msgid "IDS_PGSC549_FULL"
 msgstr "Nibelung"
@@ -90510,6 +91347,9 @@ msgstr "Varangian Longship"
 msgid "IDS_PIES421_MICHELANGELO_CEREMONIAL"
 msgstr "Ceremonial"
 
+msgid "IDS_PIES501_AMERIGO_VISPUCHI_GOLD"
+msgstr "Arno's Gold"
+
 msgid "IDS_PIES506_LEONE_ROMAN"
 msgstr "Legion"
 
@@ -90562,7 +91402,7 @@ msgid "IDS_PIGA031_65MM_64_ANSALDO_DUAL"
 msgstr "65 mm/64 Model 1939 on a twin mount"
 
 msgid "IDS_PIGA032_20MM70_BREDA_BARRELS_6"
-msgstr "20 mm/70 Scotti Model 1941 on a sextuple mount"
+msgstr "20 mm/70 Breda Model 1941 on a sextuple mount"
 
 msgid "IDS_PIGA038_2PDR_QF_MKII_POMPOM"
 msgstr "40 mm/39 Vickers-Terni Model 1917 on a single mount"
@@ -90586,7 +91426,7 @@ msgid "IDS_PIGA060_76MM_40"
 msgstr "76 mm/40 Ansaldo Model 1916 on an RM1916 mount"
 
 msgid "IDS_PIGA062_20MM70_BREDA_BARRELS_6"
-msgstr "20 mm/70 Scotti Model 1941 on a sextuple mount"
+msgstr "20 mm/70 Breda Model 1941 on a sextuple mount"
 
 msgid "IDS_PIGA069_3IN_62_MARK_75_OTO_MELARA_COMPACT"
 msgstr "76.2 mm/62 OTO-Melara Compact"
@@ -91226,6 +92066,12 @@ msgstr "356 mm proiettili CS"
 
 msgid "IDS_PIPA110_356MM_AP_ISONZO"
 msgstr "356 mm proiettili AP"
+
+msgid "IDS_PIPA111_120_HE_50_M50_T10"
+msgstr "120 mm HE M1950 mod.1"
+
+msgid "IDS_PIPA112_120_CS_50_M50_T10"
+msgstr "120 mm CS M1950 mod.1"
 
 msgid "IDS_PIPA301_305MM_46_1909_AP_SAND"
 msgstr "305 mm proiettili AP 1909 mod.1"
@@ -92285,7 +93131,7 @@ msgid "IDS_PISD511"
 msgstr "A. Vespucci"
 
 msgid "IDS_PISD511_DESCR"
-msgstr "A ship for testing."
+msgstr "If you look at this ship up close, it becomes clear that its gold is not museum luxury but fine jewelry work. In the patterns of the hull, the silhouette of the Iron Crown of Lombardy can be discerned: heavy brilliance, a strict rhythm, a sense of absolute power. It seems as though temple carvings and the delicate ornaments of northern Italian masters have been reborn in metal. This is a treasure whose value lies not in the weight of the gold, but in the history behind it."
 
 msgid "IDS_PISD511_FULL"
 msgstr "Amerigo Vespucci"
@@ -96547,6 +97393,21 @@ msgstr "1"
 msgid "IDS_PJSB502_YEAR"
 msgstr "1902"
 
+msgid "IDS_PJSB503"
+msgstr "Mikasa '04"
+
+msgid "IDS_PJSB503_DESCR"
+msgstr "<p>The last of the four battleships ordered under the ten-year program of 1896. In terms of design, it was similar to its predecessors, with its main difference being improved casemate armor for the anti-torpedo guns.</p><p class=\"p_spacing\"> </p><p>The battleship was designed and built by Armstrong, surpassing the latest British battleships. Laid down in Elswick in January 1899, launched in November 1900, and commissioned in March 1902. It was Admiral Togo's flagship during the Russo-Japanese War, taking part in the battles in the Yellow Sea and the Battle of Tsushima.</p>"
+
+msgid "IDS_PJSB503_FULL"
+msgstr "Mikasa '04"
+
+msgid "IDS_PJSB503_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB503_YEAR"
+msgstr "1902"
+
 msgid "IDS_PJSB506"
 msgstr "Mutsu"
 
@@ -98585,6 +99446,11 @@ msgstr "152 mm/45 41st Year Type on a single mount"
 msgid "IDS_PJUA121_305_40_TYPE41_MIKASA"
 msgstr "305 mm/40 41st Year Type in a twin turret"
 
+msgid "IDS_PJUA200_ART_MIKASA_04"
+msgstr ""
+"305 mm/40 EOC Pattern G in twin turret\n"
+"152 mm/40 QF EOC Pattern Z in casemate mount"
+
 msgid "IDS_PJUA211_B3_ART_STOCK"
 msgstr "305 mm/45 41st Year Type in a twin turret"
 
@@ -99365,6 +100231,9 @@ msgstr "Propulsion: 16,000 hp"
 msgid "IDS_PJUE131_D2_ENG_STOCK"
 msgstr "Propulsion: 20,500 hp"
 
+msgid "IDS_PJUE200_ENG_MIKASA_04"
+msgstr "Propulsion: 16,000 hp"
+
 msgid "IDS_PJUE201_ENGINE_20500"
 msgstr "Propulsion: 20,500 hp"
 
@@ -100069,6 +100938,9 @@ msgstr "Mikasa"
 
 msgid "IDS_PJUH131_SAKURA"
 msgstr "Tachibana"
+
+msgid "IDS_PJUH200_HULL_MIKASA_04"
+msgstr "Mikasa 1904"
 
 msgid "IDS_PJUH201_UMIKAZE_1911"
 msgstr "Umikaze (A)"
@@ -100991,6 +101863,9 @@ msgstr "Type2 mod. 1"
 msgid "IDS_PJUS122_SUO"
 msgstr "Type2 mod. 2"
 
+msgid "IDS_PJUS200_SUO_MIKASA_04"
+msgstr "Type3"
+
 msgid "IDS_PJUS201_SUO"
 msgstr "Type3 mod. 1"
 
@@ -101561,6 +102436,9 @@ msgstr "457 mm"
 msgid "IDS_PJUT111_TORP_SAZANAMI_TOP"
 msgstr "457 mm"
 
+msgid "IDS_PJUT200_TORP_MIKASA_04"
+msgstr "457 mm"
+
 msgid "IDS_PJUT202_C3_TORP_STOCK"
 msgstr "Type44 mod. 2"
 
@@ -102033,7 +102911,7 @@ msgid "IDS_PLATFORM_MICROSOFT_ACCOUNT_DENIED"
 msgstr "Your Microsoft account is already linked to the following account: %(accountName)s. To play the game, unlink it in your Personal Account settings and try to log in again."
 
 msgid "IDS_PLATFORM_STEAM_ACCOUNT_DENIED"
-msgstr "Your Steam account is already linked to the following account: %(accountName)s. To play the game, unlink it in your Personal Account settings and try to log in again."
+msgstr "Your accounts are already linked. To play, unlink the account in your Personal Account page and log in again."
 
 msgid "IDS_PLAYERS"
 msgstr "Players"
@@ -103801,6 +104679,12 @@ msgstr "57 mm ZIF-75 mount"
 msgid "IDS_PRGA3014_57MM_ZIF_31B"
 msgstr "57 mm ZIF-31B mount"
 
+msgid "IDS_PRGA3017_76MM_59_AK_726"
+msgstr "76.2 mm AK-726 Mount"
+
+msgid "IDS_PRGA3018_30MM_64_AK_230"
+msgstr "30 mm AK-230 Mount"
+
 msgid "IDS_PRGA502_76MM34K"
 msgstr "Pompom"
 
@@ -104113,6 +104997,9 @@ msgstr "152 mm/45 Model 1892 in Casemate Mount"
 msgid "IDS_PRGM252_203_55MM_MLE_1931_TRIPLE"
 msgstr "203 mm/55 Mle 1934 in a turret"
 
+msgid "IDS_PRGM260_220MM_65_SM_8"
+msgstr "220 mm/65 on an SM-6-II mount"
+
 msgid "IDS_PRGM261_254MM_3"
 msgstr "254 mm/60 in a turret"
 
@@ -104133,6 +105020,9 @@ msgstr "102 mm/60 Model 1911 on an Obukhov Plant mounting"
 
 msgid "IDS_PRGM3011_305MM_MK_3305_BIS"
 msgstr "305 mm/54 B-50 in a turret"
+
+msgid "IDS_PRGM3015_254MM_55_MK_13"
+msgstr "254 mm/55 B-48 on a MK-13 mount"
 
 msgid "IDS_PRGM501_130MM_B2LM"
 msgstr "Pewpew"
@@ -104314,6 +105204,9 @@ msgstr "152 mm/57 on a BL-118 mount"
 msgid "IDS_PRGS3012_152MM_57_BL_115"
 msgstr "152 mm/57 on a BL-115 mount"
 
+msgid "IDS_PRGS3016_130MM_57_BL_132_B"
+msgstr "130 mm/58 on a BL-132B mount"
+
 msgid "IDS_PRGS553_130MM_BL_109A_SPACE"
 msgstr "130 mm/60 on a BL-109A mount"
 
@@ -104397,6 +105290,12 @@ msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PRGT3008_450MM_3TUBES"
 msgstr "450 mm Goncharov Triple"
+
+msgid "IDS_PRGT3019_533MM_DTA_2TUBES_R"
+msgstr "533 mm DTA-53"
+
+msgid "IDS_PRGT3020_533MM_DTA_2TUBES_L"
+msgstr "533 mm DTA-53"
 
 msgid "IDS_PRGT664_PLOP"
 msgstr "Plopplop"
@@ -104613,9 +105512,6 @@ msgstr "Achievements"
 
 msgid "IDS_PROFILE_ACHIEVEMENTS_INSTRUCTION"
 msgstr "Achievements reflect your efficiency in battle, as well as your progress in the game. They are also issued for participating in various events."
-
-msgid "IDS_PROFILE_COLLECTIONS"
-msgstr "Collections"
 
 msgid "IDS_PROFILE_COLLECTION_INSTRUCTION_0"
 msgstr "Certain collection elements can be obtained from daily containers; elements from other collections can be obtained from Armory containers or are given out for participating in events."
@@ -105452,6 +106348,21 @@ msgstr "305 mm OF Model 1928"
 msgid "IDS_PRPA279_305MM_AP_T11_I_GROZNY"
 msgstr "305 mm BB Model 1928"
 
+msgid "IDS_PRPA280_220MM_HE_HANKO"
+msgstr "OF-23"
+
+msgid "IDS_PRPA281_220MM_AP_HANKO"
+msgstr "B-23"
+
+msgid "IDS_PRPA282_254MM_55_AP_MOONSUND"
+msgstr "254 mm BB Model 1938"
+
+msgid "IDS_PRPA283_254MM_55_HE_MOONSUND"
+msgstr "254 mm OF Model 1938"
+
+msgid "IDS_PRPA284_130MM_HE_OF_46_B2U_SG_MOONSUND"
+msgstr "OF-46"
+
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm BB Model 1911 mod.1"
 
@@ -105902,6 +106813,9 @@ msgstr "533 mm Si 270 N"
 msgid "IDS_PRPT096_KN_OLGA"
 msgstr "550 mm 23DT"
 
+msgid "IDS_PRPT097_MOONSUND"
+msgstr "53-51"
+
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
 
@@ -106265,6 +107179,21 @@ msgstr "5"
 msgid "IDS_PRSB502_YEAR"
 msgstr "1904"
 
+msgid "IDS_PRSB503"
+msgstr "Borodino '04"
+
+msgid "IDS_PRSB503_DESCR"
+msgstr "<p>A series of ships built under an improved design based on the battleship 'Tsesarevich,' laid down in St. Petersburg in 1900–1902. The ships differed from the prototype in their more powerful power plants and heavier turrets, requiring designers to increase displacement while slightly reducing armor weight. The battleships took part in the voyage of the Second Pacific Squadron to the Far East and in the Battle of Tsushima.</p><p class=\"p_spacing\"> </p><p>Borodino was laid down at the New Admiralty Shipyards in May 1900, launched in September 1901, and commissioned in September 1904. Under the command of Captain 1st Rank P. Serebrennikov, the battleship made the voyage from Kronstadt to the Sea of Japan. During the Battle of Tsushima, the ship suffered heavy damage and sank.</p>"
+
+msgid "IDS_PRSB503_FULL"
+msgstr "Borodino '04"
+
+msgid "IDS_PRSB503_NUMBER"
+msgstr "5"
+
+msgid "IDS_PRSB503_YEAR"
+msgstr "1904"
+
 msgid "IDS_PRSB505"
 msgstr "Okt. Revolutsiya"
 
@@ -106611,6 +107540,21 @@ msgstr "2"
 
 msgid "IDS_PRSB910_YEAR"
 msgstr "1941"
+
+msgid "IDS_PRSB990"
+msgstr "Vladivostok (DM)"
+
+msgid "IDS_PRSB990_DESCR"
+msgstr "<p>In 1935, against the backdrop of tense international relations, the shipbuilding policy of the USSR was adjusted in favor of constructing modern heavy ships. In February 1936, technical specifications were formed for the design of large combat ships, including a battleship for the Pacific Ocean. In June 1936, the final characteristics of the future battleship were determined: nine 406 mm guns in three linearly elevated turrets, twelve 152 mm guns in six turrets as secondary armament. Work on the project was carried out in parallel by KB-4 and TsKBS-1, and by October 1936, the preliminary designs were completed.</p><p class=\"p_spacing\"> </p><p>In early 1937, information was received about battleships under construction in Germany and Japan, whose displacement, according to estimates, was about 50,000 tons. After this, KB-4 continued refining the project, increasing its protection and armament, which ultimately led to the appearance of the 'Soviet Union'-class battleships.</p>"
+
+msgid "IDS_PRSB990_FULL"
+msgstr "Vladivostok (DM)"
+
+msgid "IDS_PRSB990_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB990_YEAR"
+msgstr "1936"
 
 msgid "IDS_PRSB999"
 msgstr "Krasnoye Znamya (R)"
@@ -107092,6 +108036,21 @@ msgstr "2"
 msgid "IDS_PRSC516_YEAR"
 msgstr "1935"
 
+msgid "IDS_PRSC517"
+msgstr "Hanko"
+
+msgid "IDS_PRSC517_DESCR"
+msgstr "<p>In 1957, research work with index A-66 (code name \"Dolphin\") was carried out at the Naval Academy. A light cruiser-monitor was being designed, for which main caliber variants from 180 to 220 mm were considered.</p><p class=\"p_spacing\"> </p><p>Three sketch variants were developed by the academy's design bureau, and three more were completed as diploma projects by cadets of the Dzerzhinsky Higher Naval Engineering School. Variant IV assumed armament of two twin-gun mounts with 220-mm guns.</p>"
+
+msgid "IDS_PRSC517_FULL"
+msgstr "Hanko"
+
+msgid "IDS_PRSC517_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC517_YEAR"
+msgstr "1957"
+
 msgid "IDS_PRSC518"
 msgstr "Lazo"
 
@@ -107258,6 +108217,21 @@ msgstr "1"
 
 msgid "IDS_PRSC539_YEAR"
 msgstr "1954"
+
+msgid "IDS_PRSC540"
+msgstr "Moonsund"
+
+msgid "IDS_PRSC540_DESCR"
+msgstr "<p>In the mid-1930s, the USSR began the preliminary design of large artillery ships for its future fleet. In 1934–35, several designs for large cruisers armed with 240 mm and 250 mm guns were developed at TsKBS-1. In February 1936, the Shipbuilding Department of the Naval Forces Directorate of the Red Army formed the first tactical and technical specifications for the designs of battleships (indices 21 and 23) and a cruiser (Project 22).</p><p class=\"p_spacing\"> </p><p>Engineers of TsKBS-1 worked on the heavy cruiser, presenting four preliminary design variants with armament consisting of guns ranging from 254 to 305 mm in caliber. A hypothetical further development of Project 22 toward increasing the number of main-caliber guns could have led to a variant with twelve 254 mm guns in four turrets.</p>"
+
+msgid "IDS_PRSC540_FULL"
+msgstr "Moonsund"
+
+msgid "IDS_PRSC540_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC540_YEAR"
+msgstr "1936"
 
 msgid "IDS_PRSC548"
 msgstr "Bagration"
@@ -107605,13 +108579,13 @@ msgid "IDS_PRSC980_YEAR"
 msgstr "1955"
 
 msgid "IDS_PRSC990"
-msgstr "Petropavlovsk Test"
+msgstr "Tallinn (DM)"
 
 msgid "IDS_PRSC990_DESCR"
-msgstr "Ship for test."
+msgstr "<p>Before the start of the Great Patriotic War, the leadership of the USSR took steps to strengthen the naval forces in light of a possible clash with Germany. Among other things, the USSR purchased ships, naval armament, and equipment from Germany itself. In 1940, the unfinished heavy cruiser Lützow was acquired, which was later renamed 'Petropavlovsk.'</p><p class=\"p_spacing\"> </p><p>The unfinished ship participated in the defense of Leningrad, firing from its four mounted guns. In September 1941, due to damage received, the cruiser grounded. In the summer of 1942, the ship was raised and towed down the Neva to Plant No. 189 named after Ordzhonikidze. The repaired ship continued to be used as a floating battery in the Leningrad defense system. Later, the ship was renamed 'Tallinn,' and after the war, there were plans to complete it using the mechanisms of the cruiser Seydlitz and 180 mm artillery.</p>"
 
 msgid "IDS_PRSC990_FULL"
-msgstr "Petropavlovsk Test"
+msgstr "Tallinn (DM)"
 
 msgid "IDS_PRSC990_NUMBER"
 msgstr "1"
@@ -108204,6 +109178,21 @@ msgstr "1"
 msgid "IDS_PRSD916_YEAR"
 msgstr "1937"
 
+msgid "IDS_PRSD990"
+msgstr "Kiev (DM)"
+
+msgid "IDS_PRSD990_DESCR"
+msgstr "<p>In August 1938, the tactical-technical assignment for the Project 48 leader—the successor to Projects 1 and 38—was approved. The ship was to have a high degree of unification with the Project 30 destroyers. The project was developed by the design bureau of Plant No. 198. The preliminary design was approved in July 1939, and the technical design—in October of the same year. A total of 20 Project 48 leaders were planned to be built.</p><p class=\"p_spacing\"> </p><p>The lead ship, 'Kiev,' was built at Plant No. 198 named after Andre Marty in Nikolaev. After the start of the Great Patriotic War, the construction of 'Kiev' was halted, and the hull was towed first to Sevastopol and then to Batumi. After the war, it was proposed to complete the ships according to the adjusted Project 48K, but ultimately, construction was canceled.</p>"
+
+msgid "IDS_PRSD990_FULL"
+msgstr "Kiev (DM)"
+
+msgid "IDS_PRSD990_NUMBER"
+msgstr "5"
+
+msgid "IDS_PRSD990_YEAR"
+msgstr "1939"
+
 msgid "IDS_PRSS106"
 msgstr "S-1"
 
@@ -108399,6 +109388,9 @@ msgstr "152 mm/45 Model 1892 on a Canet mounting"
 msgid "IDS_PRUA205_B3_ART_STOCK"
 msgstr "305 mm/52 Model 1907 in a turret"
 
+msgid "IDS_PRUA206_ART_BORODINO_04"
+msgstr "305 mm/40 Model 1895 in a turret"
+
 msgid "IDS_PRUA211_D3_ART_STOCK"
 msgstr "102 mm/60 Model 1911 on an Obukhov Plant mounting"
 
@@ -108472,7 +109464,7 @@ msgid "IDS_PRUA505_ART_KERCH"
 msgstr "152 mm/53 OTO Model 1929 on a Model 1929 mount"
 
 msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
-msgstr "180 mm/57 Model 1932 in MK-3-180 mount"
+msgstr "180 mm/57 Model 1932 on an MK-3-180 mount"
 
 msgid "IDS_PRUA507_D6_ART_STOCK"
 msgstr "130 mm/50 Pattern 1936 in B-13-IIc Mount"
@@ -108521,6 +109513,9 @@ msgstr "130 mm/50 Pattern 1936 in B-2LM Mount"
 
 msgid "IDS_PRUA606_ART_SKADI_SPEAR"
 msgstr "406 mm/45 Model 1915 in a turret"
+
+msgid "IDS_PRUA607_ART_HANKO"
+msgstr "220 mm/65 on an SM-6-II mount"
 
 msgid "IDS_PRUA611_D7_ART_STOCK"
 msgstr "130 mm/50 Model 1936 on a B-2LM mount"
@@ -108599,6 +109594,12 @@ msgstr "130 mm/55 on a B-2U mount"
 
 msgid "IDS_PRUA723_D8_ART_STOCK_3"
 msgstr "130 mm/50 Model 1936 on a B-2LM mount"
+
+msgid "IDS_PRUA725_ART_DEATHMATCH_DESTROYER"
+msgstr "130 mm/50 Model 1936 on a B-2LM mount"
+
+msgid "IDS_PRUA726_ART_BATTLESHIP_DEATHMATCH"
+msgstr "406 mm/45 Model 1915 in a turret"
 
 msgid "IDS_PRUA801_D9_ART_STOCK"
 msgstr "130 mm/55 on a B-2-U mount"
@@ -108687,8 +109688,8 @@ msgstr "220 mm/60 on an SM-7 mount"
 msgid "IDS_PRUA830_BB8_ART_BORODINO"
 msgstr "406 mm/50 B-37 on an MK-1 mount"
 
-msgid "IDS_PRUA900_C10_ART_STOCK"
-msgstr "220 mm/65 on an SM-6 mount"
+msgid "IDS_PRUA900_CRUISER_DEATHMATCH"
+msgstr "180 mm/57 Model 1932 on an MK-3-180 mount"
 
 msgid "IDS_PRUA901_C10_ART_STOCK"
 msgstr "220 mm/65 on an SM-6 mount"
@@ -108798,6 +109799,9 @@ msgstr "305 mm/61 SM-33 on an SM-31 mount"
 msgid "IDS_PRUA977_STALINGRAD"
 msgstr "305 mm/61 SM-33 on an SM-31 mount"
 
+msgid "IDS_PRUA978_ART_MOONSUND"
+msgstr "254 mm/55 B-48 on a MK-13 mount"
+
 msgid "IDS_PRUA980_ART_KREMLIN"
 msgstr "457 mm/48 B-45 in SM-8 mount"
 
@@ -108893,6 +109897,9 @@ msgstr "Propulsion: 25,500 hp"
 
 msgid "IDS_PRUE202_B3_ENG_STOCK"
 msgstr "Propulsion: 33,200 hp"
+
+msgid "IDS_PRUE203_ENG_BORODINO_04"
+msgstr "Propulsion: 16,300 hp"
 
 msgid "IDS_PRUE211_C3_ENG_STOCK"
 msgstr "Propulsion: 19,500 hp"
@@ -109032,6 +110039,9 @@ msgstr "Propulsion: 60,810 hp"
 msgid "IDS_PRUE607_ENG_SKADI_SPEAR"
 msgstr "Propulsion: 100,000 hp"
 
+msgid "IDS_PRUE608_ENG_HANKO"
+msgstr "Propulsion: 108,000 hp"
+
 msgid "IDS_PRUE611_C7_ENG_STOCK"
 msgstr "Propulsion: 126,500 hp"
 
@@ -109122,6 +110132,12 @@ msgstr "Propulsion: 121,000 hp"
 msgid "IDS_PRUE728_ENG_KN_OLGA"
 msgstr "Propulsion: 120,000 hp"
 
+msgid "IDS_PRUE729_ENG_DEATHMATCH_DESTROYER"
+msgstr "Propulsion: 81,000 hp"
+
+msgid "IDS_PRUE730_ENG_BATTLESHIP_DEATHMATCH"
+msgstr "Propulsion: 201,000 hp"
+
 msgid "IDS_PRUE801_D9_ENG_STOCK"
 msgstr "Propulsion: 84,500 hp"
 
@@ -109203,8 +110219,8 @@ msgstr "Propulsion: 165,000 hp"
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "Propulsion: 210,000 hp"
 
-msgid "IDS_PRUE900_C10_ENG_STOCK"
-msgstr "Propulsion: 140,000 hp"
+msgid "IDS_PRUE900_CRUISER_DEATHMATCH"
+msgstr "Propulsion: 132,000 hp"
 
 msgid "IDS_PRUE901_D10_ENG_STOCK"
 msgstr "Propulsion: 130,000 hp"
@@ -109323,6 +110339,9 @@ msgstr "Propulsion: 280,000 hp"
 msgid "IDS_PRUE977_STALINGRAD"
 msgstr "Propulsion: 280,000 hp"
 
+msgid "IDS_PRUE978_ENG_MOONSUND"
+msgstr "Propulsion: 210,000 hp"
+
 msgid "IDS_PRUE980_ENG_KREMLIN"
 msgstr "Propulsion: 280,000 hp"
 
@@ -109427,6 +110446,9 @@ msgstr "K. Suvorov (A)"
 
 msgid "IDS_PRUH202_B3_HULL_B"
 msgstr "K. Suvorov (B)"
+
+msgid "IDS_PRUH203_HULL_BORODINO_04"
+msgstr "Borodino '04"
 
 msgid "IDS_PRUH211_DERZKY_1915"
 msgstr "Derzki (A)"
@@ -109635,6 +110657,9 @@ msgstr "Shchors (B)"
 msgid "IDS_PRUH613_HULL_SKADI_SPEAR"
 msgstr "Spear of Skadi"
 
+msgid "IDS_PRUH614_HULL_HANKO"
+msgstr "Hanko"
+
 msgid "IDS_PRUH700_HULL_BLACK_CHKALOV"
 msgstr "Chkalov B."
 
@@ -109743,6 +110768,12 @@ msgstr "Albatross"
 msgid "IDS_PRUH736_HULL_KN_OLGA"
 msgstr "Knyaginya Olga"
 
+msgid "IDS_PRUH737_HULL_DEATHMATCH_DESTROYER"
+msgstr "Kiev (DM)"
+
+msgid "IDS_PRUH738_HULL_BATTLESHIP_DEATHMATCH"
+msgstr "Vladivostok (DM)"
+
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "Kiev (A)"
 
@@ -109848,8 +110879,8 @@ msgstr "Kometa"
 msgid "IDS_PRUH835_HULL_COLORFUL_RIGA"
 msgstr "Riga CLR"
 
-msgid "IDS_PRUH900_C10_HULL_STOCK"
-msgstr "Petropavlovsk Test"
+msgid "IDS_PRUH900_CRUISER_DEATHMATCH"
+msgstr "Tallinn (DM)"
 
 msgid "IDS_PRUH901_KHABAROVSK_A"
 msgstr "Khabarovsk"
@@ -109967,6 +110998,9 @@ msgstr "Stalingrad"
 
 msgid "IDS_PRUH977_STALINGRAD"
 msgstr "Stalingrad"
+
+msgid "IDS_PRUH978_MOONSUND"
+msgstr "Moonsund"
 
 msgid "IDS_PRUH980_HULL_KREMLIN"
 msgstr "Nesokrushimy"
@@ -110108,6 +111142,9 @@ msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS203_B3_SUO_TOP"
 msgstr "SUO III mod. 2"
+
+msgid "IDS_PRUS204_SUO_BORODINO_04"
+msgstr "SUO III"
 
 msgid "IDS_PRUS211_SUO"
 msgstr "SUO III mod. 1"
@@ -110280,6 +111317,9 @@ msgstr "SUO VII mod. 1"
 msgid "IDS_PRUS606_B7_SUO_STOCK"
 msgstr "SUO VII mod. 1"
 
+msgid "IDS_PRUS607_SUO_HANKO"
+msgstr "SUO VII mod. 1"
+
 msgid "IDS_PRUS608_D7_SUO_STOCK"
 msgstr "SUO VII"
 
@@ -110380,6 +111420,12 @@ msgid "IDS_PRUS726_SUO_LATANU"
 msgstr "SUO VIII"
 
 msgid "IDS_PRUS727_SUO_KN_OLGA"
+msgstr "SUO VIII"
+
+msgid "IDS_PRUS728_SUO_DEATHMATCH_DESTROYER"
+msgstr "SUO VIII"
+
+msgid "IDS_PRUS729_SUO_BATTLESHIP_DEATHMATCH"
 msgstr "SUO VIII"
 
 msgid "IDS_PRUS801_SUO"
@@ -110484,8 +111530,8 @@ msgstr "SUO IX"
 msgid "IDS_PRUS834_SUO_COLORFUL_RIGA"
 msgstr "SUO IX"
 
-msgid "IDS_PRUS900_C10_SUO_STOCK"
-msgstr "SUO X mod. 1"
+msgid "IDS_PRUS900_CRUISER_DEATHMATCH"
+msgstr "SUO X"
 
 msgid "IDS_PRUS901_SUO"
 msgstr "SUO X mod. 1"
@@ -110586,6 +111632,9 @@ msgstr "SUO X mod. 1"
 msgid "IDS_PRUS977_STALINGRAD"
 msgstr "SUO X mod. 1"
 
+msgid "IDS_PRUS978_SUO_MOONSUND"
+msgstr "SUO X mod. 1"
+
 msgid "IDS_PRUS980_SUO_KREMLIN"
 msgstr "SUO XI"
 
@@ -110622,8 +111671,8 @@ msgstr "Torpedo Model 1895"
 msgid "IDS_PRUT201_D3_TORP_STOCK"
 msgstr "Torpedo Model 1910"
 
-msgid "IDS_PRUT202_45_36NI"
-msgstr "45-36NU"
+msgid "IDS_PRUT202_TORP_BORODINO_04"
+msgstr "Torpedo Model 1895"
 
 msgid "IDS_PRUT211_456_2_PAT_10"
 msgstr "Torpedo Model 1910"
@@ -110802,6 +111851,9 @@ msgstr "53-38"
 msgid "IDS_PRUT718_TORP_KN_OLGA"
 msgstr "550 mm 23DT"
 
+msgid "IDS_PRUT719_TORP_DEATHMATCH_DESTROYER"
+msgstr "53-36 mod. 2"
+
 msgid "IDS_PRUT721_D8_TORP_STOCK"
 msgstr "53-38U"
 
@@ -110928,6 +111980,9 @@ msgstr "533 mm Si 270 N"
 msgid "IDS_PRUT922_TORP_GDR"
 msgstr "G7 Steinwal"
 
+msgid "IDS_PRUT923_TORP_CRUISER_DEATHMATCH"
+msgstr "53-38U"
+
 msgid "IDS_PRUT930_D11_TORP_STOCK"
 msgstr "53-36 mod. 2"
 
@@ -110936,6 +111991,9 @@ msgstr "53-49M"
 
 msgid "IDS_PRUT975_TORP2_GROZ"
 msgstr "53-50"
+
+msgid "IDS_PRUT978_TORP_MOONSUND"
+msgstr "53-51"
 
 msgid "IDS_PRUT990_TEST"
 msgstr "Plopplop"
@@ -114020,6 +115078,9 @@ msgstr "Winter"
 msgid "IDS_PWES300_BD9_KARL_IOHAN"
 msgstr "Red Dawn"
 
+msgid "IDS_PWES309_BUDAPEST_CEREMONIAL"
+msgstr "Ceremonial"
+
 msgid "IDS_PWES400_TORDENSKJOLD_HOUND"
 msgstr "Hound"
 
@@ -114277,6 +115338,9 @@ msgstr "350 mm/45 G. L/45 K14 Škoda in a triple turret"
 
 msgid "IDS_PWGM126_105MM_45_LC16"
 msgstr "105 mm/45 Tbts C/16 on a Tbts LC/16 mount"
+
+msgid "IDS_PWGM127_254MM_45_TWIN"
+msgstr "254-мм/45 Bofors in a turret"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Škoda K10 on a casemate mount"
@@ -114545,6 +115609,12 @@ msgstr "35 cm M.16 P.Gr."
 msgid "IDS_PWPA060_100MM_HE_R11"
 msgstr "100 mm HE"
 
+msgid "IDS_PWPA061_254MM_HE_T11"
+msgstr "254 mm HE 1929"
+
+msgid "IDS_PWPA062_254MM_AP_T11"
+msgstr "254 mm AP 1929"
+
 msgid "IDS_PWPA8001_120_HE_1916"
 msgstr "Model 1916"
 
@@ -114638,6 +115708,9 @@ msgstr "533 mm"
 msgid "IDS_PWPT030_BUDAPEST"
 msgstr "533 mm L6.3"
 
+msgid "IDS_PWPT031_TROLL"
+msgstr "Torped M1947 mod 2"
+
 msgid "IDS_PWPT8001_550_MARK_100_1915"
 msgstr "Mark 100 Model 1915"
 
@@ -114703,6 +115776,21 @@ msgstr "1"
 
 msgid "IDS_PWSC101_YEAR"
 msgstr "1938"
+
+msgid "IDS_PWSC111"
+msgstr "Troll"
+
+msgid "IDS_PWSC111_DESCR"
+msgstr "In the early 1940s, the Swedish Navy conducted research and preliminary design studies for artillery ships. Engineer Sven Lundberg developed several designs for a ship with a main caliber ranging from 210 to 280 mm. The design featured an unconventional armor scheme with a spaced armor belt, and it was assumed that concrete would be widely used in the hull construction. According to the designers' concept, this would make it possible to obtain a relatively inexpensive combat unit that was not inferior in combat capability to ships of traditional construction."
+
+msgid "IDS_PWSC111_FULL"
+msgstr "Troll"
+
+msgid "IDS_PWSC111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSC111_YEAR"
+msgstr "1941"
 
 msgid "IDS_PWSC506"
 msgstr "Elli"
@@ -115312,6 +116400,9 @@ msgstr "203 mm/55 Model 1934 in a turret"
 msgid "IDS_PWUA908_ART_TORDENSKJOLD"
 msgstr "203 mm/55 Model 1934 in a turret"
 
+msgid "IDS_PWUA909_C11_ART_STOCK"
+msgstr "254-мм/45 Bofors in a turret"
+
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Model 1950 in a turret"
 
@@ -115422,6 +116513,9 @@ msgstr "Propulsion: 240,000 hp"
 
 msgid "IDS_PWUE908_ENG_TORDENSKJOLD"
 msgstr "Propulsion: 240,000 hp"
+
+msgid "IDS_PWUE909_C11_ENG_STOCK"
+msgstr "Propulsion: 101,500 hp"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
 msgstr "Propulsion: 63,400 hp"
@@ -115573,6 +116667,9 @@ msgstr "Tordenskjold"
 msgid "IDS_PWUH908_HULL_TORDENSKJOLD"
 msgstr "Tordenskjold"
 
+msgid "IDS_PWUH909_C11_HULL_STOCK"
+msgstr "Troll"
+
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "Dalarna"
 
@@ -115720,6 +116817,9 @@ msgstr "SUO Mk 10"
 msgid "IDS_PWUS909_SUO_TORDENSKJOLD"
 msgstr "SUO Mk 10"
 
+msgid "IDS_PWUS910_C11_SUO_STOCK"
+msgstr "SUO Mk 11"
+
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
 msgstr "SUO Mk 11 Mod. 1"
 
@@ -115833,6 +116933,9 @@ msgstr "533 mm Si 270 N"
 
 msgid "IDS_PWUT906_TORP_TORDENSKJOLD"
 msgstr "533 mm Si 270 N"
+
+msgid "IDS_PWUT907_C11_TORP_STOCK"
+msgstr "533 mm"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
@@ -123292,6 +124395,12 @@ msgstr "Activates automatically each time you help your team: providing smoke co
 msgid "IDS_RAGE_MODE_DESCRIPTION_TANKING_AUTO"
 msgstr "Activates automatically each time you receive potential damage from 3 enemy ships within 15 seconds."
 
+msgid "IDS_RAGE_MODE_LEVELS_INFOTIP_HEADER"
+msgstr "Effects of Combat Instruction Stages"
+
+msgid "IDS_RAGE_MODE_LEVELS_INFOTIP_INFO"
+msgstr "The effects of combat instructions are strengthened with each activation."
+
 msgid "IDS_RAGE_MODE_PARAMS_HEADER"
 msgstr "Activation effect"
 
@@ -124992,6 +126101,15 @@ msgstr "Top 50%"
 msgid "IDS_REWARDS_ACCPOINTS_TITLE"
 msgstr "%(_amount)s Account Points"
 
+msgid "IDS_REWARDS_BAG_TITLE"
+msgstr "Return to Service"
+
+msgid "IDS_REWARDS_BAG_TOOLTIP_DESCRIPTION"
+msgstr "Reward for returning to \"Mir Korabley\" after a long break. Can be obtained after completing all tasks of the Naval courses."
+
+msgid "IDS_REWARDS_BAG_TOOLTIP_SUBHEADER"
+msgstr "Bundle"
+
 msgid "IDS_REWARDS_BRASS_TITLE"
 msgstr "%(_amount)s Champion tokens"
 
@@ -125091,6 +126209,9 @@ msgstr "New Access Level unlocked"
 msgid "IDS_REWARD_AVAILABLE"
 msgstr "A new reward is available"
 
+msgid "IDS_REWARD_BAG_SUBTITLE"
+msgstr "Bundle"
+
 msgid "IDS_REWARD_BEST_RESULT_TITLE"
 msgstr "Best bar"
 
@@ -125158,10 +126279,10 @@ msgid "IDS_REWARD_EVENTUM_10_TITLE"
 msgstr "Summer Tokens"
 
 msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "Mysterious Shards"
+msgstr "Ancient treasures"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "Fleet Tokens"
+msgstr "Traveler Tokens"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
 msgstr "American Tokens"
@@ -125170,7 +126291,7 @@ msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "Equilibrium Tokens"
 
 msgid "IDS_REWARD_EVENTUM_5_TITLE"
-msgstr "Jutland Tokens"
+msgstr "Map Fragments"
 
 msgid "IDS_REWARD_EVENTUM_6_TITLE"
 msgstr "Summer Tokens"
@@ -126534,17 +127655,17 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Ship"
+
 msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -126621,17 +127742,17 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Ship"
+
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium Ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127023,17 +128144,17 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Ship"
+
 msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127231,25 +128352,25 @@ msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr "Special or Premium Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VI–VIII ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier IX–X ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_TITLE_FULL"
-msgstr "Special or Premium ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier VI–VIII ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Tier VI–VIII"
-
-msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Tier IX–X ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Tier IX–X"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127639,25 +128760,25 @@ msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr "Permanent camouflage or a special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Permanent camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_TITLE_FULL"
-msgstr "Permanent Camouflage or Special Commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Permanent Camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Special Commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Commander"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127675,25 +128796,25 @@ msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr "Permanent camouflage or a special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Permanent camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_1_TITLE_FULL"
-msgstr "Permanent camouflage or a special Commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Permanent camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Special Commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Commander"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL108_TF098_FREE_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128107,31 +129228,31 @@ msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_COMMON_GROUP_TITLE_FU
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr "Permanent camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Unique permanent camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Unique"
+
+msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Rare permanent camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Rare"
+
+msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Special permanent camouflage"
+
+msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "Special"
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_TITLE_FULL"
-msgstr "Permanent camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Unique permanent camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Unique"
-
-msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Rare permanent camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Rare"
-
-msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Special permanent camouflage"
-
-msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "Special"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128649,17 +129770,17 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Ship"
+
 msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Premium ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -129699,17 +130820,17 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Supercontainer"
+
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Supercontainer"
+
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_TITLE_FULL"
 msgstr " "
-
-msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Supercontainer"
-
-msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Supercontainer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -130105,25 +131226,25 @@ msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr "Premium ship or special commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Premium ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_TITLE_FULL"
-msgstr "Premium ship or special commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Special Commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Commander"
-
-msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Premium ship"
-
-msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Ship"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -130563,23 +131684,143 @@ msgstr "Dashing Wave"
 msgid "IDS_REWARD_LOOTBOX_PCL242_SUPERSTART_26_TITLE_QUOTES"
 msgstr "\"Dashing Wave\""
 
+msgid "IDS_REWARD_LOOTBOX_PCL243_BIRTHDAY2026_1_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL243_BIRTHDAY2026_1_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL243_BIRTHDAY2026_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL243_BIRTHDAY2026_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL243_BIRTHDAY2026_1_TITLE"
+msgstr "Mysterious Package"
+
+msgid "IDS_REWARD_LOOTBOX_PCL243_BIRTHDAY2026_1_TITLE_QUOTES"
+msgstr "\"Mysterious Package\""
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_TITLE"
+msgstr "Protective Mechanism"
+
+msgid "IDS_REWARD_LOOTBOX_PCL244_BIRTHDAY2026_2_TITLE_QUOTES"
+msgstr "\"Protective Mechanism\""
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_0_TITLE_FULL"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Golden Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Premium Tier VIII-IX ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_TITLE"
+msgstr "Stone Sarcophagus"
+
+msgid "IDS_REWARD_LOOTBOX_PCL245_BIRTHDAY2026_3_TITLE_QUOTES"
+msgstr "\"Stone Sarcophagus\""
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Special supership"
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Supership"
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_TITLE"
+msgstr "Heart of the Artifact"
+
+msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_TITLE_QUOTES"
+msgstr "\"Heart of the Artifact\""
+
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_TITLE_FULL"
-msgstr " "
+msgstr " Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr " "
+msgstr "Premium Tier VIII-IX ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr " "
+msgstr "Tier VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr " "
+msgstr "Premium Tier V–VI ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr " "
+msgstr "Tier V–VI"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE"
 msgstr "American Fleet"
@@ -130663,7 +131904,7 @@ msgid "IDS_REWARD_SLOTS_TITLE"
 msgstr "Vacant Slot"
 
 msgid "IDS_REWARD_SNOWFLAKE_TITLE"
-msgstr "Rewards without entering a battle"
+msgstr "Keys to the Holds"
 
 msgid "IDS_REWARD_STEEL_TITLE"
 msgstr "Steel"
@@ -131003,6 +132244,9 @@ msgstr "Will be available at higher levels of the Service Record"
 
 msgid "IDS_REWARD_WOWS_PREMIUM_TITLE"
 msgstr "Warships Premium Account"
+
+msgid "IDS_REWARS_BAG_TOOLTIP_HEADER"
+msgstr "Return to Service"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ACID"
 msgstr "Deal acid damage to an enemy ship."
@@ -132228,6 +133472,9 @@ msgstr "Brawl — Domination — Alternative"
 msgid "IDS_SCENARIO_CVC_DOMINATION_OBSERV0"
 msgstr "Clans. Domination. Tournament"
 
+msgid "IDS_SCENARIO_DEATHMATCH"
+msgstr "Deathmatch"
+
 msgid "IDS_SCENARIO_DEFAULTDOMINATION"
 msgstr "Standard Battle: Domination"
 
@@ -133377,6 +134624,9 @@ msgstr "The Transformers in the Game"
 
 msgid "IDS_SEVENTH_SOVIETBBARC_NAME"
 msgstr "Naval Awards of the U.S.S.R."
+
+msgid "IDS_SGBARBETTE"
+msgstr "Secondary Turret Barbette Armor"
 
 msgid "IDS_SGBARBETTESS"
 msgstr "Secondary Turret Barbette Armor"
@@ -134823,6 +136073,15 @@ msgstr "Ship speed is boosted while you're not in first place."
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM169_SMF_ENGINE_DEBUFF"
 msgstr "Ship speed is reduced due to carrying too many eggs on board."
 
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM284_SUPERDAMAGE"
+msgstr "Super-damage"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM289_SUPERSPEED"
+msgstr "Super-speed"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM290_INVISIBILITY"
+msgstr "Invisibility"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_SECRET_EFFECT"
 msgstr "Ship characteristics have been modified as a result of implementing experimental systems."
 
@@ -134847,10 +136106,10 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_CONSUMABLES"
 msgstr "Enhanced Consumables"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_ENGINE"
-msgstr "Enhanced Maneuverability"
+msgstr "Maneuverability Enhancement"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_VISIBILITY"
-msgstr "Concealment enhancement"
+msgstr "Concealment Enhancement"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_WEAPONS_RELOAD_FACTOR"
 msgstr "Faster Reload Time"
@@ -135242,6 +136501,15 @@ msgstr "Slowing Shells"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM251_HOUNDS_REGENERATION_WT"
 msgstr "Mechanism Regeneration"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM284_SUPERDAMAGE"
+msgstr "Super-damage"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM289_SUPERSPEED"
+msgstr "Super-speed"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM290_INVISIBILITY"
+msgstr "Invisibility"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM300_SUBEVENT26_GMROTATIONSTARTBUFF"
 msgstr "Main battery traverse speed"
 
@@ -135256,6 +136524,24 @@ msgstr "Daring Valor"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SECRET_EFFECT"
 msgstr "Experimental Systems"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SHIP_TYPE_BATTLESHIP_BUFF"
+msgstr "Battleship buff"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SHIP_TYPE_BATTLESHIP_DEBUFF"
+msgstr "Battleship debuff"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SHIP_TYPE_CRUISER_BUFF"
+msgstr "Cruiser buff"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SHIP_TYPE_CRUISER_DEBUFF"
+msgstr "Cruiser debuff"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SHIP_TYPE_DESTROYER_BUFF"
+msgstr "Destroyer buff"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SHIP_TYPE_DESTROYER_DEBUFF"
+msgstr "Destoryer debuff"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VAMPIRISM"
 msgstr "Techno-vampirism"
@@ -135564,7 +136850,7 @@ msgid "IDS_SHIP_MODIFIER_PXOM044_HIDDENDAMAGERESIST_APPLIED"
 msgstr "Incoming damage reduced"
 
 msgid "IDS_SHIP_MODIFIER_PXOM103_AIRBARRIER_ENGINE_BOOST"
-msgstr "Enhanced Maneuverability"
+msgstr "Maneuverability Enhancement"
 
 msgid "IDS_SHIP_MODIFIER_PXOM147_CRUISERBUFF_DE_APPLIED"
 msgstr "Weaponry Enhancement Applied"
@@ -137179,6 +138465,12 @@ msgstr "Detectability range by enemy aircraft before temporary modifiers are app
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BASE_TOOLTIP_DESCRIPTION"
 msgstr "Detectability by enemy ships before temporary modifiers are applied."
 
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_ARTILLERY_IN_SMOKE"
+msgstr "After firing main or intermediate guns in smoke"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_ARTILLERY_IN_SMOKE_TOOLTIP_DESCRIPTION"
+msgstr "Range at which the ship can be detected in smoke after firing the main or intermediate guns."
+
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_ATBA"
 msgstr "Detectability after firing a secondary gun shell"
 
@@ -137203,14 +138495,8 @@ msgstr "Detectability after the Engine Boost is activated"
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK"
 msgstr "Detectability after firing a main gun shell"
 
-msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE"
-msgstr "Detectability after firing main guns in smoke"
-
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE_BATTLE"
 msgstr "After firing main guns in smoke"
-
-msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_GK_IN_SMOKE_TOOLTIP_DESCRIPTION"
-msgstr "The distance at which a ship can be spotted in smoke after firing its main battery."
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PINGER"
 msgstr "Detectability after emitting a sonar ping"
@@ -137229,6 +138515,9 @@ msgstr "The distance at which a ship can be spotted by aircraft."
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SHIP"
 msgstr "Detectability Range by Sea"
+
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SK"
+msgstr "After firing intermediate guns in smoke"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_SUBMARINE_TITLE"
 msgstr "Detectability depending on the diving depth of the enemy submarine"
@@ -138783,34 +140072,118 @@ msgid "IDS_SMOOTHING_DESCRIPTION"
 msgstr "Type of image anti-aliasing during the post-processing stage. Removes residual noise."
 
 msgid "IDS_SNOWFLAKES_AUTOSELECT"
-msgstr "Select automatically"
+msgstr "Select all"
 
 msgid "IDS_SNOWFLAKES_COMMON_TITLE"
-msgstr "Festive Rewards"
+msgstr "Rewards in holds"
 
-msgid "IDS_SNOWFLAKES_COUNTER_COLON"
-msgstr "Can be claimed without entering a battle:"
+msgid "IDS_SNOWFLAKES_CONFIRMATION_QUESTION"
+msgstr "Claim rewards from selected ships for"
+
+msgid "IDS_SNOWFLAKES_COUNT"
+msgstr "Number of Keys:"
+
+msgid "IDS_SNOWFLAKES_COUNTER"
+msgstr "Keys to the Holds"
 
 msgid "IDS_SNOWFLAKES_COUNTER_SHORT_COLON"
 msgstr "Taken without going into battle:"
+
+msgid "IDS_SNOWFLAKES_FILTERS"
+msgstr "Ships"
+
+msgid "IDS_SNOWFLAKES_FILTER_ITEM_TOOLTIP_MOUSE_INSTRUCTION_DESELECT"
+msgstr "Cancel selection"
+
+msgid "IDS_SNOWFLAKES_FILTER_ITEM_TOOLTIP_MOUSE_INSTRUCTION_SELECT"
+msgstr "Show ships"
+
+msgid "IDS_SNOWFLAKES_FILTER_ITEM_TOOLTIP_REWARDS_TITLE"
+msgstr "Reward in the hold"
 
 msgid "IDS_SNOWFLAKES_FILTER_ORDER_COLON"
 msgstr "Display order:"
 
 msgid "IDS_SNOWFLAKES_INTRO_SUBHEADER"
-msgstr "Achieve high combat results playing ships with festive rewards to claim rewards from other ships without entering a battle!"
+msgstr "You can claim rewards from ship holds without taking them into battle! To do this, you will need keys that you can earn in battles."
+
+msgid "IDS_SNOWFLAKES_PREMIUM_ACTIVATED"
+msgstr "Get keys on any ships!"
+
+msgid "IDS_SNOWFLAKES_PREMIUM_ACTIVATED_DESC"
+msgstr "Now you can earn keys per battle on any ship — even if you have already taken the reward from its hold."
 
 msgid "IDS_SNOWFLAKES_RULES_LINK_TEXT"
-msgstr "Earning conditions"
+msgstr "Rules"
 
-msgid "IDS_SNOWFLAKES_SHIPS_NOT_ENOUGH_REWARDS_DESCRIPTION"
-msgstr "Achieve high combat results playing ships with festive rewards to claim rewards from other ships without entering a battle!"
+msgid "IDS_SNOWFLAKES_SELECT_SEVERAL_SHIPS"
+msgstr "The first ships in the list will be selected"
+
+msgid "IDS_SNOWFLAKES_SHIPS_LIST_COUNTER"
+msgstr "Ships with awards"
+
+msgid "IDS_SNOWFLAKES_SHIPS_LIST_COUNTER_DESCRIPTION"
+msgstr "Select the ships from whose holds you want to receive rewards, without going into battle."
 
 msgid "IDS_SNOWFLAKES_SHIPS_NOT_ENOUGH_REWARDS_STATUS"
 msgstr "You cannot claim rewards from ships without participating in battles"
 
 msgid "IDS_SNOWFLAKES_SHIP_TOOLTIP_TITLE"
-msgstr "Rewards for a ship"
+msgstr "Rewards in the ship's hold"
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_BOUGHT_TEXT"
+msgstr "You can earn keys per battle on any ship — even if you have already taken the reward from its hold."
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_BOUGHT_TITLE"
+msgstr "Keys can be obtained on any ship."
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_BUTTON"
+msgstr "Keys on any ship"
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_HEADER"
+msgstr "Purchase Upgrade"
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_REWARDS_TEXT"
+msgstr "<p>You will be able to earn keys per battle <b>on any ship</b> — even if you have already taken the reward from its hold.</p>"
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_REWARDS_WARNING"
+msgstr "You have fewer than 10 ships with a reward in the hold. Are you sure you want to purchase the upgrade?"
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_STATUS"
+msgstr "Upgrade received"
+
+msgid "IDS_SNOWFLAKES_SIMPLE_REWARDS_CLAIM_TITLE"
+msgstr "Keys on any ship"
+
+msgid "IDS_SNOWFLAKES_START_SEASON"
+msgstr "In the holds of your ships are rewards!"
+
+msgid "IDS_SNOWFLAKES_START_SEASON_DESC"
+msgstr "Go into battle on a ship to claim its reward: you need to win or earn 300 Base XP."
+
+msgid "IDS_SNOWFLAKES_STATUS_ACTIVE_DESCRIPTION"
+msgstr "Use keys to get rewards from ship holds without taking them into battle."
+
+msgid "IDS_SNOWFLAKES_STATUS_EMPTY"
+msgstr "You have no ships with rewards in their holds."
+
+msgid "IDS_SNOWFLAKES_STATUS_EMPTY_DESCRIPTION"
+msgstr "If you receive a new ship with a reward in the hold during the event, you will be able to claim it!"
+
+msgid "IDS_SNOWFLAKES_STATUS_IMPROVEMENT"
+msgstr "Upgrade purchase available"
+
+msgid "IDS_SNOWFLAKES_STATUS_NOT_ENOUGH_BONUSES"
+msgstr "You don't have the keys to the holds"
+
+msgid "IDS_SNOWFLAKES_STATUS_NOT_ENOUGH_BONUSES_DESCRIPTION"
+msgstr "Achieve high combat results on ships to receive Keys to the Holds. They are needed to claim rewards without going into battle."
+
+msgid "IDS_SNOWFLAKES_STATUS_NOT_ENOUGH_SHIPS"
+msgstr "You don't have enough ships"
+
+msgid "IDS_SNOWFLAKES_STATUS_NO_SELECTED_SHIPS"
+msgstr "You have not selected any ship to claim the rewards"
 
 msgid "IDS_SNOWFLAKES_STATUS_WRITE_OFF_EXPLANATION"
 msgstr "After the end of the event, any unclaimed rewards will be removed without compensation"
@@ -138824,23 +140197,17 @@ msgstr "Claim from selected ships:"
 msgid "IDS_SNOWFLAKES_TAKE_BONUSES_REWARDS_COLON"
 msgstr "From the selected ships, you will receive:"
 
-msgid "IDS_SNOWFLAKES_TAKE_BONUSES_SELECT_SHIPS"
-msgstr "You have not selected a ship to claim rewards from"
-
-msgid "IDS_SNOWFLAKES_TAKE_BONUSES_TITLE"
-msgstr "Festive Rewards"
-
 msgid "IDS_SNOWFLAKES_TOOLTIP_DESELECT_ALL_SHIPS"
 msgstr "Deselect all ships"
 
-msgid "IDS_SNOWFLAKES_TOOLTIP_HEADER"
-msgstr "Festive Rewards"
-
 msgid "IDS_SNOWFLAKES_TOOLTIP_MOUSE_INSTRUCTION"
-msgstr "Go to the Festive Rewards screen"
+msgstr "Go to the \"Rewards in holds\" screen"
 
 msgid "IDS_SNOWFLAKES_TOOLTIP_SELECT_SHIP"
-msgstr "Select a ship to claim a reward from her"
+msgstr "Select a ship to claim a reward from her hold"
+
+msgid "IDS_SNOWFLAKES_TOTAL_COLLECTED"
+msgstr "Rewards Claimed"
 
 msgid "IDS_SNOWFLAKES_UNINSTALL_ALL"
 msgstr "Deselect all"
@@ -138897,6 +140264,9 @@ msgstr "by nation"
 
 msgid "IDS_SORT_BY_NATION_CAPITALIZED"
 msgstr "By nation"
+
+msgid "IDS_SORT_BY_OWNED_TIME"
+msgstr "by date of receipt"
 
 msgid "IDS_SORT_BY_SHIPTYPE"
 msgstr "by ship type"
@@ -139107,6 +140477,9 @@ msgstr "GM-22D"
 
 msgid "IDS_SOUND_MOD_BIRTHDAYRUBY_VENTURER"
 msgstr "Mikhail Orlov"
+
+msgid "IDS_SOUND_MOD_CALIPSO"
+msgstr "Calypso Carter"
 
 msgid "IDS_SOUND_MOD_CM_DZHABRAILOV"
 msgstr "Timur Dzhabrailov"
@@ -140505,7 +141878,7 @@ msgid "IDS_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_HEROIC_SHORT"
 msgstr "earn a heroic achievement"
 
 msgid "IDS_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_HONORABLE_SHORT"
-msgstr "earn an honorable achievement"
+msgstr "earn an honorary achievement"
 
 msgid "IDS_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_TYPE"
 msgstr "earn: "
@@ -141791,7 +143164,7 @@ msgid "IDS_SUBST_BATTLEPASS_STATUS_TIME"
 msgstr "Season ends in: %(timeLeft)s"
 
 msgid "IDS_SUBST_BONUSTAG_CONDITIONS_DESCRIPTION"
-msgstr "Win any type of battle or earn %(_baseExpCount)s Base XP in a single battle."
+msgstr "Reward for victory in any type of battle or %(_baseExpCount)s units of Base XP."
 
 msgid "IDS_SUBST_BRAWL_SEASON_ENDS_IN"
 msgstr "The season ends in %(_timeTillEnd)s"
@@ -141896,7 +143269,10 @@ msgid "IDS_SUBST_SHIP_TAG_HEADER_LEGENDARY"
 msgstr "Differences from other %(_shipClass)s"
 
 msgid "IDS_SUBST_SNOWFLAKES_DATE_FINISH_COLON"
-msgstr "Reward removal date: %(date)s"
+msgstr "Unclaimed rewards will be written off on %(date)s"
+
+msgid "IDS_SUBST_SNOWFLAKES_FILTER_ITEM_TOOLTIP_TITLE"
+msgstr "Tier %(_shipLevel)s Ship"
 
 msgid "IDS_SUBST_SSE_CATEGORY_DAILY_RESET_IN"
 msgstr "The section will be updated in %(timeLeft)s"
@@ -142236,9 +143612,6 @@ msgstr "Compensation"
 msgid "IDS_SYS_MSG_AUTO_INSTALL"
 msgstr "Ship equipment automatically mounted"
 
-msgid "IDS_SYS_MSG_AUTO_OPEN_LOOTBOX"
-msgstr "Opening container"
-
 msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
 msgstr "Containers received"
 
@@ -142381,13 +143754,13 @@ msgid "IDS_SYS_MSG_BOUGHT_ENSIGN"
 msgstr "Flag purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "Mysterious Shards purchased"
+msgstr "Ancient Treasures purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "Summer Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "Fleet Tokens purchased"
+msgstr "Traveler Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
 msgstr "American Tokens purchased"
@@ -142396,7 +143769,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "Equilibrium Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
-msgstr "Jutland Tokens purchased"
+msgstr "Map Fragments purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
 msgstr "Summer Tokens purchased"
@@ -142945,13 +144318,13 @@ msgid "IDS_SYS_MSG_RECEIVED_ENSIGN"
 msgstr "Flag received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "Mysterious Shards received"
+msgstr "Ancient Treasures received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "Summer Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "Fleet Tokens received"
+msgstr "Traveler Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
 msgstr "American tokens received"
@@ -142960,7 +144333,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "Equilibrium Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
-msgstr "Jutland Tokens received"
+msgstr "Map Fragments received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "Summer Tokens received"
@@ -143234,8 +144607,14 @@ msgstr "You have skipped the Bronze League"
 msgid "IDS_SYS_MSG_SKIP_SILVER_LEAGUE"
 msgstr "You have skipped the Silver League"
 
+msgid "IDS_SYS_MSG_SNOWFLAKES"
+msgstr "Keys to the Holds"
+
+msgid "IDS_SYS_MSG_SNOWFLAKES_PREMIUM_BOUGHT"
+msgstr "Now you can earn keys on any ships"
+
 msgid "IDS_SYS_MSG_SNOWFLAKES_REWARDS_CLAIM"
-msgstr "Festive Rewards received"
+msgstr "Rewards from holds received"
 
 msgid "IDS_SYS_MSG_SOLD"
 msgstr "Selling"
@@ -143430,13 +144809,13 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_ENSIGN"
 msgstr "Flag removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "Mysterious Shards removed"
+msgstr "Ancient Treasures removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "Summer Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "Fleet Tokens removed"
+msgstr "Traveler Tokens removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
 msgstr "American tokens removed"
@@ -143445,7 +144824,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "Equilibrium Tokens deducted"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
-msgstr "Jutland Tokens written off"
+msgstr "Map Fragments written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "Summer Tokens written off"
@@ -146059,6 +147438,9 @@ msgstr "Select this battle type"
 msgid "IDS_TOOLTIP_CHOOSE_LEAVE_DIVISION"
 msgstr "Right-click and select Leave Division in the context menu"
 
+msgid "IDS_TOOLTIP_COLLECTIONS"
+msgstr "All collections that you are collecting or have already collected."
+
 msgid "IDS_TOOLTIP_COMMANDERS_MANAGEMENT"
 msgstr "During this battle, Commanders can invite players to their Divisions"
 
@@ -146285,7 +147667,7 @@ msgid "IDS_TOOLTIP_PRIORITY_SECTOR"
 msgstr "Group of AA guns"
 
 msgid "IDS_TOOLTIP_PROFILE"
-msgstr "A summary of your all-time combat scores, achievements, collections and more is available here."
+msgstr "Summary of your combat results and achievements for all time."
 
 msgid "IDS_TOOLTIP_PTZDAMAGEPROB"
 msgstr "Reduces the damage received when torpedoes hit the ship's torpedo protection."
@@ -148448,6 +149830,9 @@ msgstr "Screen size in pixels."
 msgid "IDS_VIEW_EVENT_VIDEO_BUTTON_UPPER_CASE"
 msgstr "VIDEO ABOUT THE EVENT"
 
+msgid "IDS_VIEW_RAGE_MODE_LEVELS"
+msgstr "Show the effects of combat instruction stages"
+
 msgid "IDS_VIEW_SHIP_INFO_DISABLED"
 msgstr "Information about the equipment of enemy ships is hidden."
 
@@ -148799,7 +150184,7 @@ msgid "IDS_WAITING_PLAYERS"
 msgstr "Awaiting players"
 
 msgid "IDS_WAITING_SCREEN_AUTHORIZATION"
-msgstr "Authorization"
+msgstr "Logging in"
 
 msgid "IDS_WAITING_SCREEN_LOADING_DATA"
 msgstr "Data loading"
@@ -150157,11 +151542,6 @@ msgid_plural "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
 msgstr[0] "Earn any %(_amount)s battle achievement"
 msgstr[1] "Earn any %(_amount)s battle achievements"
 
-msgid "IDS_GUIDING_TIP_253_DESC"
-msgid_plural "IDS_GUIDING_TIP_253_DESC"
-msgstr[0] "You can claim festive rewards from %(count)s ship without entering battle!"
-msgstr[1] "You can claim festive rewards from %(count)s ships without entering battle!"
-
 msgid "IDS_HP_SECOND"
 msgid_plural "IDS_HP_SECOND"
 msgstr[0] " HP per second"
@@ -150694,8 +152074,8 @@ msgstr[1] "%(count)s heroic achievements"
 
 msgid "IDS_PL_SSE_CONDITIONS_ACHIEVEMENT_DESC_HONORABLE"
 msgid_plural "IDS_PL_SSE_CONDITIONS_ACHIEVEMENT_DESC_HONORABLE"
-msgstr[0] "%(count)s honorable achievement"
-msgstr[1] "%(count)s honorable achievements"
+msgstr[0] "%(count)s honorary achievement"
+msgstr[1] "%(count)s honorary achievements"
 
 msgid "IDS_PL_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_ANY"
 msgid_plural "IDS_PL_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_ANY"
@@ -151077,15 +152457,10 @@ msgid_plural "IDS_SHOT_MINUTE"
 msgstr[0] "rounds/min"
 msgstr[1] "rounds/min"
 
-msgid "IDS_SNOWFLAKES_SELECT_SEVERAL_SHIPS"
-msgid_plural "IDS_SNOWFLAKES_SELECT_SEVERAL_SHIPS"
-msgstr[0] "Select %(shipsCount)s ship"
-msgstr[1] "Select first %(shipsCount)s ships"
-
-msgid "IDS_SNOWFLAKES_TOOLTIP_DESCRIPTION_INFO"
-msgid_plural "IDS_SNOWFLAKES_TOOLTIP_DESCRIPTION_INFO"
-msgstr[0] "Rewards without entering a battle are available if you have %(_minShipsCount)s ship or more in your Port, including ships from which you have not claimed rewards yet."
-msgstr[1] "Rewards without entering a battle are available if you have %(_minShipsCount)s ships or more in your Port, including ships from which you have not claimed rewards yet."
+msgid "IDS_SNOWFLAKES_STATUS_NOT_ENOUGH_SHIPS_DESCRIPTION"
+msgid_plural "IDS_SNOWFLAKES_STATUS_NOT_ENOUGH_SHIPS_DESCRIPTION"
+msgstr[0] "You can earn Keys to the Holds if you have %(_minShipsCount)s or more ships."
+msgstr[1] "You can earn Keys to the Holds if you have %(_minShipsCount)s or more ships."
 
 msgid "IDS_SNOWFLAKES_TOOLTIP_STATUS"
 msgid_plural "IDS_SNOWFLAKES_TOOLTIP_STATUS"
@@ -151114,13 +152489,13 @@ msgstr[1] "The section will be available for %(timeLeft)s days"
 
 msgid "IDS_SUBST_PL_OPEN_N_CONTAINERS"
 msgid_plural "IDS_SUBST_PL_OPEN_N_CONTAINERS"
-msgstr[0] "Open %(count)d container"
-msgstr[1] "Open %(count)d containers"
+msgstr[0] "Open %(count)s container"
+msgstr[1] "Open %(count)s containers"
 
 msgid "IDS_SUBST_PL_OPEN_N_CONTAINERS_QUESTION"
 msgid_plural "IDS_SUBST_PL_OPEN_N_CONTAINERS_QUESTION"
-msgstr[0] "Open %(count)d container?"
-msgstr[1] "Open %(count)d containers?"
+msgstr[0] "Open %(count)s container?"
+msgstr[1] "Open %(count)s containers?"
 
 msgid "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TOTAL_WITH_TYPES"
 msgid_plural "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TOTAL_WITH_TYPES"
